@@ -1,0 +1,48 @@
+<?php
+
+return array (
+  'edit-login' => 'تنظیم ورود به سیستم اجتماعی را ویرایش کنید',
+  'edit-login-desc' => 'این صفحه به شما امکان می دهد یک تنظیم خاص برای ورود به سیستم اجتماعی را ویرایش کنید.',
+  'error-facebook-callback' => '',
+  'error-github-callback' => '',
+  'error-google-callback' => '',
+  'error-linkedin-callback' => '',
+  'error-twitter-callback' => '',
+  'frontend' => 
+  array (
+    'error-facebook-callback' => 'با ورود به فیس بوک خطا کردیم ، لطفا با روش های دیگر وارد شوید',
+    'error-facebook-disabled' => 'ورود به فیس بوک غیرفعال شد',
+    'error-github-callback' => 'با ورود به سایت GitHub خطا کردیم ، لطفا با روش های دیگر وارد شوید',
+    'error-github-disabled' => 'ورود به سیستم GitHub غیرفعال شد',
+    'error-google-callback' => 'با ورود به سیستم Google خطا کردیم ، لطفاً با روش های دیگر وارد شوید',
+    'error-google-disabled' => 'ورود به سیستم Google غیرفعال شد',
+    'error-linkedin-callback' => 'با ورود به سایت LinkedIn خطا کردیم ، لطفا با روش های دیگر وارد شوید',
+    'error-linkedin-disabled' => 'ورود به سیستم غیرفعال شد',
+    'error-twitter-callback' => 'با ورود به سیستم توییتر خطا کردیم ، لطفا با روش های دیگر وارد شوید',
+    'error-twitter-disabled' => 'ورود به سیستم توییتر غیرفعال شد',
+    'or' => 'یا',
+    'sign-in-facebook' => 'با Facebook وارد شوید',
+    'sign-in-github' => 'با GitHub وارد سیستم شوید',
+    'sign-in-google' => 'با Google وارد سیستم شوید',
+    'sign-in-linkedin' => 'با LinkedIn وارد سیستم شوید',
+    'sign-in-twitter' => 'با توییتر وارد سیستم شوید',
+    'sign-in-with' => 'با حساب های رسانه اجتماعی خود وارد شوید',
+  ),
+  'login-client-id' => 'شناسه مشتری',
+  'login-client-secret' => 'راز مشتری',
+  'login-disabled' => 'معلول',
+  'login-enabled' => 'فعال شده است',
+  'login-provider' => 'ارائه دهنده',
+  'login-status' => 'وضعیت',
+  'manage-login' => 'ورود به سیستم اجتماعی را مدیریت کنید',
+  'manage-login-desc' => 'این صفحه به شما امکان می دهد ورود به سیستم اجتماعی وب سایت را مدیریت کنید.',
+  'seo' => 
+  array (
+    'edit-login' => 'داشبورد - ویرایش ورود - :site_name',
+    'index-login' => 'داشبورد - مدیریت ورود به سیستم اجتماعی - :site_name',
+  ),
+  'social-provider' => 'ارائه دهنده اجتماعی',
+  'social-provider-id' => 'شناسه',
+  'update-login' => 'تنظیم به روزرسانی',
+  'update-login-success' => 'تنظیم ورود با موفقیت به روز شد',
+);

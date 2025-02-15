@@ -1,0 +1,48 @@
+<?php
+
+return array (
+  'edit-login' => 'Modifier le paramètre de connexion sociale',
+  'edit-login-desc' => 'Cette page vous permet de modifier un paramètre de connexion sociale particulier.',
+  'error-facebook-callback' => '',
+  'error-github-callback' => '',
+  'error-google-callback' => '',
+  'error-linkedin-callback' => '',
+  'error-twitter-callback' => '',
+  'frontend' => 
+  array (
+    'error-facebook-callback' => 'Nous avons eu une erreur avec la connexion Facebook, veuillez vous connecter avec d\'autres moyens.',
+    'error-facebook-disabled' => 'Connexion Facebook désactivée',
+    'error-github-callback' => 'Nous avons eu une erreur avec la connexion GitHub, veuillez vous connecter avec d\'autres moyens.',
+    'error-github-disabled' => 'Connexion GitHub désactivée',
+    'error-google-callback' => 'Nous avons eu une erreur avec la connexion Google, veuillez vous connecter avec d\'autres moyens.',
+    'error-google-disabled' => 'Connexion Google désactivée',
+    'error-linkedin-callback' => 'Nous avons eu une erreur avec la connexion LinkedIn, veuillez vous connecter avec d\'autres moyens.',
+    'error-linkedin-disabled' => 'Connexion LinkedIn désactivée',
+    'error-twitter-callback' => 'Nous avons eu une erreur avec la connexion Twitter, veuillez vous connecter avec d\'autres moyens.',
+    'error-twitter-disabled' => 'Connexion Twitter désactivée',
+    'or' => 'OU',
+    'sign-in-facebook' => 'Connectez-vous avec Facebook',
+    'sign-in-github' => 'Connectez-vous avec GitHub',
+    'sign-in-google' => 'Connectez-vous avec Google',
+    'sign-in-linkedin' => 'Connectez-vous avec LinkedIn',
+    'sign-in-twitter' => 'Connectez-vous avec Twitter',
+    'sign-in-with' => 'Connectez-vous avec vos comptes de réseaux sociaux',
+  ),
+  'login-client-id' => 'identité du client',
+  'login-client-secret' => 'Secret client',
+  'login-disabled' => 'désactivé',
+  'login-enabled' => 'Activée',
+  'login-provider' => 'Fournisseur',
+  'login-status' => 'Statut',
+  'manage-login' => 'Gérer la connexion sociale',
+  'manage-login-desc' => 'Cette page vous permet de gérer la connexion sociale au site Web.',
+  'seo' => 
+  array (
+    'edit-login' => 'Tableau de bord - Modifier la connexion - :site_name',
+    'index-login' => 'Tableau de bord - Gérer la connexion sociale - :site_name',
+  ),
+  'social-provider' => 'Fournisseur social',
+  'social-provider-id' => 'Identifiant',
+  'update-login' => 'Réglage de la mise à jour',
+  'update-login-success' => 'Le paramètre de connexion a été mis à jour avec succès',
+);

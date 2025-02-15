@@ -1,0 +1,20 @@
+<?php
+return array (
+  'all-cat' => 'alle kategorieë',
+  'and' => 'en',
+  'category-delete-error-children' => 'Hierdie kategorie het subkategorieë. Vee asseblief eers alle subkategorieë uit.',
+  'category-name-taken-error' => 'Kategorienaam is geneem.',
+  'category-slug-help' => 'slegs klein-, alfa- en / of numeriese karakters, strepies en onderstrepe.',
+  'category-slug-taken-error' => 'Kategorie slak is geneem.',
+  'choose-parent-cat' => 'Kies \'n ouerkategorie',
+  'create-cat-not-found' => 'Ouer kategorie nie gevind nie.',
+  'item-category-update-alert' => 'Kategorie van hierdie lysinskrywing suksesvol opgedateer.',
+  'more' => 'meer',
+  'no-parent-cat' => 'Geen ouer kategorie (wortel kategorie)',
+  'parent-cat' => 'Ouer Kategorie',
+  'search-city-format-alert' => 'Moet in stad, staatsformaat',
+  'search-city-placeholder' => 'Naby stad',
+  'search-query-placeholder' => 'Byvoorbeeld: pizza, hotel, woonstel',
+  'self-parent-cat-error' => 'Kan nie self as ouerkategorie stel nie.',
+  'update-cat' => 'Dateer kategorie op',
+);

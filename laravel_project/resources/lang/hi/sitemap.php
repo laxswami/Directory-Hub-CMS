@@ -1,0 +1,45 @@
+<?php
+return array (
+  'seo' =>
+  array (
+    'edit-sitemap' => 'डैशबोर्ड - संपादन साइटमैप सेटिंग - :site_name',
+  ),
+  'alert' =>
+  array (
+    'updated-success' => 'साइटमैप सेटिंग सफलतापूर्वक अपडेट की गई।',
+  ),
+  'edit-sitemap-setting' => 'साइटमैप सेटिंग संपादित करें',
+  'edit-sitemap-setting-desc' => 'यह पृष्ठ आपको साइटमैप सेटिंग को संपादित करने की अनुमति देता है। आप वेबसाइट के प्रत्येक अनुभाग के लिए साइटमैप को सक्षम या अक्षम कर सकते हैं, आप प्रत्येक साइटमैप के विशिष्ट मान भी सेट कर सकते हैं।',
+  'sitemap-index' => 'साइटमैप इंडेक्स',
+  'enable' => 'सक्षम करें',
+  'disable' => 'अक्षम',
+  'sitemap-page' => 'पृष्ठ',
+  'sitemap-status' => 'स्थिति',
+  'sitemap-frequency' => 'आवृत्ति',
+  'sitemap-format' => 'स्वरूप',
+  'sitemap-include-to-index' => 'सूचकांक में शामिल करें',
+  'sitemap-include' => 'शामिल',
+  'sitemap-not-include' => 'शामिल नहीं',
+  'sitemap-frequency-always' => 'हमेशा',
+  'sitemap-frequency-hourly' => 'प्रति घंटा',
+  'sitemap-frequency-daily' => 'रोज',
+  'sitemap-frequency-weekly' => 'साप्ताहिक',
+  'sitemap-frequency-monthly' => 'महीने के',
+  'sitemap-frequency-yearly' => 'सालाना',
+  'sitemap-frequency-never' => 'कभी नहीँ',
+  'sitemap-format-xml' => 'एक्सएमएल',
+  'sitemap-format-html' => 'एचटीएमएल',
+  'sitemap-format-txt' => 'टेक्स्ट',
+  'sitemap-format-ror-rss' => 'ROR-आरएसएस',
+  'sitemap-format-ror-rdf' => 'ROR-rdf',
+  'sitemap-category' => 'वर्ग',
+  'sitemap-listing' => 'लिस्टिंग',
+  'sitemap-post' => 'पद',
+  'sitemap-tag' => 'टैग',
+  'sitemap-topic' => 'विषय',
+  'sitemap' => 'साइटमैप',
+
+    'show-in-footer' => "पाद लेख में साइटमैप दिखाएँ",
+    'show' => "प्रदर्शन",
+    'not-show' => "न दिखाएं",
+);

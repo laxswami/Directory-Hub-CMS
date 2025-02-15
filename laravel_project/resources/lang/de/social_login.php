@@ -1,0 +1,48 @@
+<?php
+
+return array (
+  'edit-login' => 'Soziale Anmeldeeinstellung bearbeiten',
+  'edit-login-desc' => 'Auf dieser Seite können Sie eine bestimmte Einstellung für die soziale Anmeldung bearbeiten.',
+  'error-facebook-callback' => '',
+  'error-github-callback' => '',
+  'error-google-callback' => '',
+  'error-linkedin-callback' => '',
+  'error-twitter-callback' => '',
+  'frontend' => 
+  array (
+    'error-facebook-callback' => 'Wir haben eine Fehlermeldung bei der Facebook-Anmeldung erhalten. Bitte melden Sie sich auf andere Weise an.',
+    'error-facebook-disabled' => 'Facebook-Login deaktiviert',
+    'error-github-callback' => 'Beim GitHub-Login ist ein Fehler aufgetreten. Bitte melden Sie sich auf andere Weise an.',
+    'error-github-disabled' => 'GitHub-Login deaktiviert',
+    'error-google-callback' => 'Beim Google-Login ist ein Fehler aufgetreten. Bitte melden Sie sich auf andere Weise an.',
+    'error-google-disabled' => 'Google-Login deaktiviert',
+    'error-linkedin-callback' => 'Bei der Anmeldung bei LinkedIn ist ein Fehler aufgetreten. Bitte melden Sie sich auf andere Weise an.',
+    'error-linkedin-disabled' => 'LinkedIn Login deaktiviert',
+    'error-twitter-callback' => 'Wir haben eine Fehlermeldung bei der Twitter-Anmeldung erhalten. Bitte melden Sie sich auf andere Weise an.',
+    'error-twitter-disabled' => 'Twitter-Login deaktiviert',
+    'or' => 'ODER',
+    'sign-in-facebook' => 'Mit Facebook anmelden',
+    'sign-in-github' => 'Melden Sie sich mit GitHub an',
+    'sign-in-google' => 'Anmeldung mit Google',
+    'sign-in-linkedin' => 'Melden Sie sich bei LinkedIn an',
+    'sign-in-twitter' => 'Mit Twitter anmelden',
+    'sign-in-with' => 'Melden Sie sich mit Ihren Social Media-Konten an',
+  ),
+  'login-client-id' => 'Kunden ID',
+  'login-client-secret' => 'Kundengeheimnis',
+  'login-disabled' => 'Behindert',
+  'login-enabled' => 'aktiviert',
+  'login-provider' => 'Anbieter',
+  'login-status' => 'Status',
+  'manage-login' => 'Social Login verwalten',
+  'manage-login-desc' => 'Auf dieser Seite können Sie das soziale Login der Website verwalten.',
+  'seo' => 
+  array (
+    'edit-login' => 'Dashboard - Login bearbeiten - :site_name',
+    'index-login' => 'Dashboard - Social Login verwalten - :site_name',
+  ),
+  'social-provider' => 'Sozialanbieter',
+  'social-provider-id' => 'ICH WÜRDE',
+  'update-login' => 'Update-Einstellung',
+  'update-login-success' => 'Anmeldeeinstellung erfolgreich aktualisiert',
+);

@@ -1,0 +1,107 @@
+.pace {
+    -webkit-pointer-events: none;
+    pointer-events: none;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+.pace-inactive {
+    display: none;
+}
+
+.pace .pace-progress {
+    background: #29d;
+    position: fixed;
+    z-index: 2000;
+    top: 0;
+    right: 100%;
+    width: 100%;
+    height: 2px;
+}
+
+/**
+ * error message tool tip box
+ */
+.invalid-tooltip {
+    display: block !important;
+}
+
+.img-responsive {
+    width: 100%;
+}
+
+#logout-form {
+    display: none;
+}
+#map-modal-body {
+    width: 100%;
+    height: 500px;
+}
+#map-modal-body img {
+    max-width: none !important;
+}
+.item_image_gallery_img {
+    max-width: 120px;
+}
+
+/**
+ * Start the color picker style
+ */
+.sp-original-input-container {
+    display: inline-flex;
+}
+.sp-original-input-container .sp-add-on {
+    border: 1px solid rgb(204, 204, 204) !important;
+}
+.sp-original-input-container .sp-add-on .sp-colorize {
+    height: 100%;
+}
+.color-picker-input {
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
+/**
+ * End the color picker style
+ */
+
+/**
+ * Start image file upload preview
+ */
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+.img-upload-preview {
+    width: 100%;
+}
+/**
+ * End image file upload preview
+ */
+
+/**
+ * Start category index page
+ */
+.category-img-preview {
+    max-width: 220px;
+}
+/**
+ * End category index page
+ */

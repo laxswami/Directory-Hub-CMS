@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'Бүх ангилал',
+  'and' => 'болон',
+  'category-delete-error-children' => 'Энэ ангилалд дэд ангилал байгаа тул эхлээд бүх дэд ангиллыг устгана уу.',
+  'category-name-taken-error' => 'Ангиллын нэрийг авсан.',
+  'category-slug-help' => 'зөвхөн жижиг үсгийн альфа ба / эсвэл тоон тэмдэгт, тасархай, доогуур зураас.',
+  'category-slug-taken-error' => 'Ангилал slug авсан.',
+  'choose-parent-cat' => 'Эцэг эхийн ангиллыг сонгоно уу',
+  'create-cat-not-found' => 'Эцэг эхийн ангилал олдсонгүй.',
+  'item-category-update-alert' => 'Энэхүү жагсаалтын ангиллыг амжилттай шинэчиллээ.',
+  'more' => 'дэлгэрэнгүй',
+  'no-parent-cat' => 'Эцэг эхийн ангилал байхгүй (root ангилал)',
+  'parent-cat' => 'Эцэг эхийн ангилал',
+  'search-city-format-alert' => 'Хот, муж улсын форматтай байх ёстой',
+  'search-city-placeholder' => 'Хотын ойролцоо',
+  'search-query-placeholder' => 'Жишээлбэл: пицца, зочид буудал, орон сууц',
+  'self-parent-cat-error' => 'Өөрийгөө эцэг эхийн ангиллаар тохируулах боломжгүй.',
+  'update-cat' => 'Ангиллыг шинэчлэх',
+);

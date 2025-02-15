@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'confirm-password' => 'Confirm Password',
+  'confirm-password-message' => 'Please confirm your password before continuing.',
+  'email-addr' => 'E-Mail Address',
+  'failed' => 'These credentials do not match our records.',
+  'forgot-password' => 'Forgot Your Password?',
+  'have-an-account' => 'Have an account',
+  'login' => 'Login',
+  'logout' => 'Logout',
+  'name' => 'Name',
+  'no-account-yet' => 'No account yet',
+  'password' => 'Password',
+  'register' => 'Sign up',
+  'remember-me' => 'Remember Me',
+  'reset-password' => 'Reset Password',
+  'send-password-reset-link' => 'Send Password Reset Link',
+  'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+  'verify-email' => 'Verify Your Email Address',
+  'verify-email-check' => 'Before proceeding, please check your email for a verification link.',
+  'verify-email-not-receive' => 'If you did not receive the email',
+  'verify-email-request' => 'click here to request another',
+  'verify-email-sent' => 'A fresh verification link has been sent to your email address.',
+);

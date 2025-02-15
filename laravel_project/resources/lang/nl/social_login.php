@@ -1,0 +1,48 @@
+<?php
+
+return array (
+  'edit-login' => 'Bewerk de sociale login-instelling',
+  'edit-login-desc' => 'Op deze pagina kunt u een bepaalde instelling voor sociale login bewerken.',
+  'error-facebook-callback' => '',
+  'error-github-callback' => '',
+  'error-google-callback' => '',
+  'error-linkedin-callback' => '',
+  'error-twitter-callback' => '',
+  'frontend' => 
+  array (
+    'error-facebook-callback' => 'Er is een fout opgetreden bij het inloggen op Facebook, log in op andere manieren.',
+    'error-facebook-disabled' => 'Facebook-login uitgeschakeld',
+    'error-github-callback' => 'Er is een fout opgetreden bij het inloggen op GitHub, log in op andere manieren.',
+    'error-github-disabled' => 'GitHub-login uitgeschakeld',
+    'error-google-callback' => 'Er is een fout opgetreden bij het inloggen bij Google, log in op andere manieren.',
+    'error-google-disabled' => 'Google-login uitgeschakeld',
+    'error-linkedin-callback' => 'Er is een fout opgetreden bij het inloggen op LinkedIn, log in op andere manieren.',
+    'error-linkedin-disabled' => 'Login op LinkedIn uitgeschakeld',
+    'error-twitter-callback' => 'Er is een fout opgetreden bij het inloggen op Twitter, log in met andere manieren.',
+    'error-twitter-disabled' => 'Twitter-login uitgeschakeld',
+    'or' => 'OF',
+    'sign-in-facebook' => 'Meld je aan met facebook',
+    'sign-in-github' => 'Log in met GitHub',
+    'sign-in-google' => 'Log in met Google',
+    'sign-in-linkedin' => 'Log in met LinkedIn',
+    'sign-in-twitter' => 'Log in met twitter',
+    'sign-in-with' => 'Log in met uw sociale media-accounts',
+  ),
+  'login-client-id' => 'klant identificatie',
+  'login-client-secret' => 'Client Secret',
+  'login-disabled' => 'Gehandicapt',
+  'login-enabled' => 'Ingeschakeld',
+  'login-provider' => 'Aanbieder',
+  'login-status' => 'Toestand',
+  'manage-login' => 'Beheer sociale login',
+  'manage-login-desc' => 'Op deze pagina kunt u de sociale login van de website beheren.',
+  'seo' => 
+  array (
+    'edit-login' => 'Dashboard - Login bewerken - :site_name',
+    'index-login' => 'Dashboard - Beheer sociale login - :site_name',
+  ),
+  'social-provider' => 'Sociale aanbieder',
+  'social-provider-id' => 'ID kaart',
+  'update-login' => 'Update instelling',
+  'update-login-success' => 'Aanmeldingsinstelling succesvol bijgewerkt',
+);

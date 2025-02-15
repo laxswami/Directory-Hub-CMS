@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'Sadaya Kategori',
+  'and' => 'jeung',
+  'category-delete-error-children' => 'Kategori ieu ngagaduhan sub-kategori, mangga hapus sadaya sub-kategori heula.',
+  'category-name-taken-error' => 'Ngaran kategori parantos dicandak.',
+  'category-slug-help' => 'ngan ukur aksara leutik jeung / atanapi karakter numerik, garis dasbor sareng garis handapna.',
+  'category-slug-taken-error' => 'Kategori slug parantos dicandak.',
+  'choose-parent-cat' => 'Pilih kategori indung',
+  'create-cat-not-found' => 'Kategori kolot henteu kapendak.',
+  'item-category-update-alert' => 'Kategori daptar ieu parantos hasil diénggalan.',
+  'more' => 'Tambih deui',
+  'no-parent-cat' => 'Henteu aya kategori induk (kategori root)',
+  'parent-cat' => 'Kategori Kolot',
+  'search-city-format-alert' => 'Kedah di kota, format nagara',
+  'search-city-placeholder' => 'Kota caket',
+  'search-query-placeholder' => 'Ex: pizza, hotél, apartemen',
+  'self-parent-cat-error' => 'Teu tiasa nyetél dirina salaku kategori indung.',
+  'update-cat' => 'Kategori Pembaharuan',
+);

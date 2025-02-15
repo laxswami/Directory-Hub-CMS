@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'Minden kategória',
+  'and' => 'és',
+  'category-delete-error-children' => 'Ebben a kategóriában vannak alkategóriák, kérjük, először törölje az összes alkategóriát.',
+  'category-name-taken-error' => 'A kategória neve átvett.',
+  'category-slug-help' => 'csak kisbetűs alfa és / vagy numerikus karakterek, kötőjelek és aláhúzások.',
+  'category-slug-taken-error' => 'Kategória csiga került elfogadásra.',
+  'choose-parent-cat' => 'Válasszon szülői kategóriát',
+  'create-cat-not-found' => 'Szülői kategória nem található.',
+  'item-category-update-alert' => 'A lista kategóriája sikeresen frissítve.',
+  'more' => 'több',
+  'no-parent-cat' => 'Nincs szülő kategória (gyökér kategória)',
+  'parent-cat' => 'szülő kategória',
+  'search-city-format-alert' => 'Kell városi, állami formátumban',
+  'search-city-placeholder' => 'Város közelében',
+  'search-query-placeholder' => 'Pl .: pizza, szálloda, apartman',
+  'self-parent-cat-error' => 'Nem lehet önmagát beállítani szülőkategóriaként.',
+  'update-cat' => 'Kategória frissítése',
+);

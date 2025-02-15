@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'vse kategorije',
+  'and' => 'in',
+  'category-delete-error-children' => 'Ta kategorija ima podkategorije, najprej izbrišite vse podkategorije.',
+  'category-name-taken-error' => 'Ime kategorije je bilo zavzeto.',
+  'category-slug-help' => 'samo male črke in / ali številske znake, pomišljaje in podčrtaje.',
+  'category-slug-taken-error' => 'Zajeta je kategorija polž.',
+  'choose-parent-cat' => 'Izberite nadrejeno kategorijo',
+  'create-cat-not-found' => 'Nadrejene kategorije ni mogoče najti.',
+  'item-category-update-alert' => 'Kategorija tega seznama je bila uspešno posodobljena.',
+  'more' => 'več',
+  'no-parent-cat' => 'Brez nadrejene kategorije (korenska kategorija)',
+  'parent-cat' => 'Nadrejena kategorija',
+  'search-city-format-alert' => 'Mora biti v mestnem, zveznem formatu',
+  'search-city-placeholder' => 'Blizu mesta',
+  'search-query-placeholder' => 'Na primer: pica, hotel, apartma',
+  'self-parent-cat-error' => 'Sebe ni mogoče nastaviti kot nadrejeno kategorijo.',
+  'update-cat' => 'Posodobi kategorijo',
+);

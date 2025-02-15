@@ -1,0 +1,45 @@
+<?php
+return array (
+  'seo' =>
+  array (
+    'edit-sitemap' => 'Dashboard - Sitemap-Einstellung bearbeiten - :site_name',
+  ),
+  'alert' =>
+  array (
+    'updated-success' => 'Die Sitemap-Einstellung wurde erfolgreich aktualisiert.',
+  ),
+  'edit-sitemap-setting' => 'Sitemap-Einstellung bearbeiten',
+  'edit-sitemap-setting-desc' => 'Auf dieser Seite können Sie eine Sitemap-Einstellung bearbeiten. Sie können Sitemaps für jeden Abschnitt der Website aktivieren oder deaktivieren. Sie können auch bestimmte Werte für jede Sitemap festlegen.',
+  'sitemap-index' => 'Sitemap-Index',
+  'enable' => 'Aktivieren',
+  'disable' => 'Deaktivieren',
+  'sitemap-page' => 'Seite',
+  'sitemap-status' => 'Status',
+  'sitemap-frequency' => 'Frequenz',
+  'sitemap-format' => 'Format',
+  'sitemap-include-to-index' => 'In den Index aufnehmen',
+  'sitemap-include' => 'Inbegriffen',
+  'sitemap-not-include' => 'Nicht eingeschlossen',
+  'sitemap-frequency-always' => 'Immer',
+  'sitemap-frequency-hourly' => 'Stündlich',
+  'sitemap-frequency-daily' => 'Täglich',
+  'sitemap-frequency-weekly' => 'Wöchentlich',
+  'sitemap-frequency-monthly' => 'Monatlich',
+  'sitemap-frequency-yearly' => 'Jährlich',
+  'sitemap-frequency-never' => 'noch nie',
+  'sitemap-format-xml' => 'xml',
+  'sitemap-format-html' => 'html',
+  'sitemap-format-txt' => 'TXT',
+  'sitemap-format-ror-rss' => 'ror-rss',
+  'sitemap-format-ror-rdf' => 'ror-rdf',
+  'sitemap-category' => 'Kategorie',
+  'sitemap-listing' => 'Auflistung',
+  'sitemap-post' => 'Post',
+  'sitemap-tag' => 'Etikett',
+  'sitemap-topic' => 'Thema',
+  'sitemap' => 'Seitenverzeichnis',
+
+    'show-in-footer' => "Sitemap in Fußzeile anzeigen",
+    'show' => "Show",
+    'not-show' => "Nicht zeigen",
+);

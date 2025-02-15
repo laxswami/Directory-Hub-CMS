@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => '所有類別',
+  'and' => '和',
+  'category-delete-error-children' => '此類別包含子類別，請先刪除所有子類別。',
+  'category-name-taken-error' => '類別名稱已被採用。',
+  'category-slug-help' => '僅小寫字母和/或數字字符，破折號和下劃線。',
+  'category-slug-taken-error' => '類別已採取。',
+  'choose-parent-cat' => '選擇一個父類別',
+  'create-cat-not-found' => '找不到父類別。',
+  'item-category-update-alert' => '此房源類別已成功更新。',
+  'more' => '更多',
+  'no-parent-cat' => '沒有父類別（根類別）',
+  'parent-cat' => '父類別',
+  'search-city-format-alert' => '必須以城市，州格式顯示',
+  'search-city-placeholder' => '靠近城市',
+  'search-query-placeholder' => '例如：披薩，旅館，公寓',
+  'self-parent-cat-error' => '無法將自身設置為父類別。',
+  'update-cat' => '更新類別',
+);

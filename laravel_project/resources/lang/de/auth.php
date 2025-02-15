@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'confirm-password' => 'Kennwort bestätigen',
+  'confirm-password-message' => 'Bitte bestätigen Sie Ihr Passwort, bevor Sie fortfahren.',
+  'email-addr' => 'E-Mail-Addresse',
+  'failed' => 'Diese Anmeldeinformationen stimmen nicht mit unseren Aufzeichnungen überein.',
+  'forgot-password' => 'Passwort vergessen?',
+  'have-an-account' => 'Ein Konto haben',
+  'login' => 'Anmeldung',
+  'logout' => 'Ausloggen',
+  'name' => 'Name',
+  'no-account-yet' => 'Noch keinen Account',
+  'password' => 'Passwort',
+  'register' => 'Anmelden',
+  'remember-me' => 'Erinnere dich an mich',
+  'reset-password' => 'Passwort zurücksetzen',
+  'send-password-reset-link' => 'Link zum Zurücksetzen des Passworts senden',
+  'throttle' => 'Zu viele Anmeldeversuche. Bitte versuchen Sie es in :seconds Sekunden erneut.',
+  'verify-email' => 'Bestätige deine Email-Adresse',
+  'verify-email-check' => 'Bevor Sie fortfahren, überprüfen Sie bitte Ihre E-Mails auf einen Bestätigungslink.',
+  'verify-email-not-receive' => 'Wenn Sie die E-Mail nicht erhalten haben',
+  'verify-email-request' => 'Klicken Sie hier, um einen anderen anzufordern',
+  'verify-email-sent' => 'Ein neuer Bestätigungslink wurde an Ihre E-Mail-Adresse gesendet.',
+);

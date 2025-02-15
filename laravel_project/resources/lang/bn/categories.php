@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'সব ধরনের',
+  'and' => 'এবং',
+  'category-delete-error-children' => 'এই বিভাগে উপ-বিভাগ রয়েছে, দয়া করে প্রথমে সমস্ত উপ-বিভাগ মুছে ফেলুন।',
+  'category-name-taken-error' => 'বিভাগের নাম নেওয়া হয়েছে।',
+  'category-slug-help' => 'কেবল ছোট ছোট আলফা এবং / অথবা সংখ্যাসূচক অক্ষর, ড্যাশ এবং আন্ডারস্কোর।',
+  'category-slug-taken-error' => 'বিভাগ স্লাগ নেওয়া হয়েছে।',
+  'choose-parent-cat' => 'একটি পিতামাতার বিভাগ চয়ন করুন',
+  'create-cat-not-found' => 'মূল বিভাগ পাওয়া যায় নি।',
+  'item-category-update-alert' => 'এই তালিকার বিভাগটি সফলভাবে আপডেট হয়েছে।',
+  'more' => 'আরও',
+  'no-parent-cat' => 'পিতামহীন বিভাগ নেই (মূল বিভাগ)',
+  'parent-cat' => 'মূল বিভাগ',
+  'search-city-format-alert' => 'শহর, রাষ্ট্রীয় ফর্ম্যাট অবশ্যই হবে',
+  'search-city-placeholder' => 'শহর কাছাকাছি',
+  'search-query-placeholder' => 'উদাঃ পিজ্জা, হোটেল, অ্যাপার্টমেন্ট',
+  'self-parent-cat-error' => 'অভিভাবক বিভাগ হিসাবে নিজেকে সেট করা যায় না।',
+  'update-cat' => 'আপডেট বিভাগ',
+);

@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'Alle Kategorier',
+  'and' => 'og',
+  'category-delete-error-children' => 'Denne kategorien har underkategorier. Slett alle underkategorier først.',
+  'category-name-taken-error' => 'Kategorinavn er tatt.',
+  'category-slug-help' => 'bare små og små bokstaver, bindestreker og understrekninger.',
+  'category-slug-taken-error' => 'Kategorisneglen er tatt.',
+  'choose-parent-cat' => 'Velg en overordnet kategori',
+  'create-cat-not-found' => 'Foreldrekategori ikke funnet.',
+  'item-category-update-alert' => 'Kategorien til denne oppføringen er oppdatert.',
+  'more' => 'mer',
+  'no-parent-cat' => 'Ingen foreldrekategori (rotkategori)',
+  'parent-cat' => 'foreldrekategori',
+  'search-city-format-alert' => 'Må i by, statlig format',
+  'search-city-placeholder' => 'Nær byen',
+  'search-query-placeholder' => 'Eks: pizza, hotell, leilighet',
+  'self-parent-cat-error' => 'Kan ikke angi selv som foreldrekategori.',
+  'update-cat' => 'Oppdater kategori',
+);

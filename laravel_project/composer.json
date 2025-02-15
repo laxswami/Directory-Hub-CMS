@@ -1,0 +1,93 @@
+{
+    "name": "laravel/laravel",
+    "type": "project",
+    "description": "The Laravel Framework.",
+    "keywords": [
+        "framework",
+        "laravel"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^8.0",
+        "ext-json": "*",
+        "artesaos/seotools": "^0.17.2",
+        "biscolab/laravel-recaptcha": "^4.2",
+        "cmgmyr/messenger": "^2.20",
+        "cnvs/canvas": "^5.3",
+        "fideloper/proxy": "^4.0",
+        "guzzlehttp/guzzle": "6.5.2",
+        "instamojo/instamojo-php": "^0.4.0",
+        "intervention/image": "^2.5",
+        "joedixon/laravel-translation": "^1.1",
+        "laravel/framework": "6.20.34",
+        "laravel/helpers": "^1.2",
+        "laravel/socialite": "^4.4",
+        "laravel/tinker": "^2.0",
+        "laravel/ui": "^1.0",
+        "laravelista/comments": "^3.3",
+        "laravelium/sitemap": "6.*",
+        "mews/purifier": "^3.2",
+        "nicolaslopezj/searchable": "1.*",
+        "rachidlaasri/laravel-installer": "^4.0",
+        "spatie/opening-hours": "^2.10",
+        "srmklive/paypal": "^1.7",
+        "stripe/stripe-php": "^7.53",
+        "sundarocs/laravel-review-rateable": "^1.2",
+        "razorpay/razorpay": "2.*"
+    },
+    "require-dev": {
+        "facade/ignition": "^1.4",
+        "fzaninotto/faker": "^1.9.1",
+        "mockery/mockery": "^1.0",
+        "nunomaduro/collision": "^3.0",
+        "phpunit/phpunit": "^9.3",
+        "tanmuhittin/laravel-google-translate": "^1.0"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "dont-discover": []
+        }
+    },
+    "autoload": {
+        "files": [
+            "app/helpers.php"
+        ],
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "classmap": [
+            "database/seeds",
+            "database/factories"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "scripts": {
+        "post-autoload-dump": [
+            "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
+            "@php artisan package:discover --ansi"
+        ],
+        "post-root-package-install": [
+            "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+        ],
+        "post-create-project-cmd": [
+            "@php artisan key:generate --ansi"
+        ]
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "http://github.com/sundarocs/laravel-review-rateable"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'すべてのカテゴリ',
+  'and' => 'そして',
+  'category-delete-error-children' => 'このカテゴリにはサブカテゴリがあります。最初にすべてのサブカテゴリを削除してください。',
+  'category-name-taken-error' => 'カテゴリ名が取られました。',
+  'category-slug-help' => '小文字の英字および/または数字、ダッシュ、アンダースコアのみ。',
+  'category-slug-taken-error' => 'カテゴリスラッグが取られました。',
+  'choose-parent-cat' => '親カテゴリを選択してください',
+  'create-cat-not-found' => '親カテゴリが見つかりません。',
+  'item-category-update-alert' => 'このリストのカテゴリは正常に更新されました。',
+  'more' => 'もっと',
+  'no-parent-cat' => '親カテゴリなし（ルートカテゴリ）',
+  'parent-cat' => '親カテゴリ',
+  'search-city-format-alert' => '市、州の形式である必要があります',
+  'search-city-placeholder' => '街の近く',
+  'search-query-placeholder' => '例：ピザ、ホテル、アパート',
+  'self-parent-cat-error' => '自分を親カテゴリとして設定することはできません。',
+  'update-cat' => 'カテゴリを更新',
+);

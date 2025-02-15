@@ -1,0 +1,48 @@
+<?php
+
+return array (
+  'edit-login' => 'सामाजिक लॉगिन सेटिंग संपादित करें',
+  'edit-login-desc' => 'यह पृष्ठ आपको किसी विशेष सामाजिक लॉगिन सेटिंग को संपादित करने की अनुमति देता है।',
+  'error-facebook-callback' => '',
+  'error-github-callback' => '',
+  'error-google-callback' => '',
+  'error-linkedin-callback' => '',
+  'error-twitter-callback' => '',
+  'frontend' => 
+  array (
+    'error-facebook-callback' => 'हमें फेसबुक लॉगिन में त्रुटि हुई, कृपया अन्य तरीकों से लॉगिन करें।',
+    'error-facebook-disabled' => 'फेसबुक लॉगिन अक्षम',
+    'error-github-callback' => 'हमें GitHub लॉगिन के साथ त्रुटि मिली, कृपया अन्य तरीकों से लॉगिन करें।',
+    'error-github-disabled' => 'GitHub लॉगिन अक्षम है',
+    'error-google-callback' => 'हमें Google लॉगिन में त्रुटि हुई, कृपया अन्य तरीकों से लॉगिन करें।',
+    'error-google-disabled' => 'Google लॉगिन अक्षम है',
+    'error-linkedin-callback' => 'हमें लिंक्डइन लॉगिन में त्रुटि मिली, कृपया अन्य तरीकों से लॉगिन करें।',
+    'error-linkedin-disabled' => 'लिंक्डइन लॉगिन अक्षम',
+    'error-twitter-callback' => 'हमें ट्विटर लॉगिन से त्रुटि हुई, कृपया अन्य तरीकों से लॉगिन करें।',
+    'error-twitter-disabled' => 'ट्विटर लॉगिन अक्षम',
+    'or' => 'या',
+    'sign-in-facebook' => 'फ़ेसबुक से साइन इन करें',
+    'sign-in-github' => 'GitHub के साथ साइन इन करें',
+    'sign-in-google' => 'Google के साथ साइन इन करें',
+    'sign-in-linkedin' => 'लिंक्डइन के साथ साइन इन करें',
+    'sign-in-twitter' => 'टिवीटर के साथ साइन इन करें',
+    'sign-in-with' => 'अपने सोशल मीडिया अकाउंट से साइन इन करें',
+  ),
+  'login-client-id' => 'ग्राहक ID',
+  'login-client-secret' => 'ग्राहक गुप्त',
+  'login-disabled' => 'विकलांग',
+  'login-enabled' => 'सक्रिय',
+  'login-provider' => 'प्रदाता',
+  'login-status' => 'स्थिति',
+  'manage-login' => 'सामाजिक लॉगिन प्रबंधित करें',
+  'manage-login-desc' => 'यह पृष्ठ आपको वेबसाइट सामाजिक लॉगिन का प्रबंधन करने की अनुमति देता है।',
+  'seo' => 
+  array (
+    'edit-login' => 'डैशबोर्ड - एडिट लॉगिन - एक्स 1',
+    'index-login' => 'डैशबोर्ड - सामाजिक लॉगिन प्रबंधित करें - :site_name',
+  ),
+  'social-provider' => 'सामाजिक प्रदाता',
+  'social-provider-id' => 'आईडी',
+  'update-login' => 'सेटिंग अपडेट करें',
+  'update-login-success' => 'लॉगिन सेटिंग सफलतापूर्वक अपडेट की गई',
+);

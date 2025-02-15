@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'Tout Kategori',
+  'and' => 'ak',
+  'category-delete-error-children' => 'Kategori sa a gen sub-kategori, tanpri efase tout sub-kategori an premye.',
+  'category-name-taken-error' => 'Non kategori te pran.',
+  'category-slug-help' => 'sèlman miniskil alfa ak / oswa karaktè nimerik, tirè ak souliye.',
+  'category-slug-taken-error' => 'Kategori paresseux te pran.',
+  'choose-parent-cat' => 'Chwazi yon kategori paran',
+  'create-cat-not-found' => 'Kategori paran yo pa jwenn.',
+  'item-category-update-alert' => 'Kategori lis sa a mete ajou avèk siksè.',
+  'more' => 'plis',
+  'no-parent-cat' => 'Pa gen kategori paran (kategori rasin)',
+  'parent-cat' => 'Kategori paran yo',
+  'search-city-format-alert' => 'Dwe nan vil, fòma eta a',
+  'search-city-placeholder' => 'Toupre lavil la',
+  'search-query-placeholder' => 'Egz: pitza, otèl, apatman',
+  'self-parent-cat-error' => 'Pa ka mete pwòp tèt ou kòm kategori paran yo.',
+  'update-cat' => 'Kategori Mizajou',
+);

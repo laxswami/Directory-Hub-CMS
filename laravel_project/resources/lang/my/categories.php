@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'အမျိုးအစားအားလုံး',
+  'and' => 'နှင့်',
+  'category-delete-error-children' => 'ဤကဏ္categoryခွဲသည်ပထမအမျိုးအစားခွဲအားလုံးကိုအရင်ဖျက်ပါ။',
+  'category-name-taken-error' => 'အမျိုးအစားအမည်ယူထားသည်',
+  'category-slug-help' => 'အက္ခရာစာလုံးအသေး၊ dash နှင့် underscores များကိုသာစာလုံးအကြီးနှင့်သာရိုက်ပါ။',
+  'category-slug-taken-error' => 'အမျိုးအစားပက်ကျိကိုယူထားပြီး။',
+  'choose-parent-cat' => 'မိဘအမျိုးအစားကိုရွေးပါ',
+  'create-cat-not-found' => 'မိဘအမျိုးအစားကိုရှာမတွေ့ပါ။',
+  'item-category-update-alert' => 'ဤစာရင်း၏အမျိုးအစားကိုအောင်အောင်မြင်မြင် update လုပ်',
+  'more' => 'နောက်ထပ်',
+  'no-parent-cat' => 'မိဘအမျိုးအစားမရှိပါ (အမြစ်အမျိုးအစား)',
+  'parent-cat' => 'မိဘအမျိုးအစား',
+  'search-city-format-alert' => 'မြို့, ပြည်နယ် format နဲ့ရှိရမည်',
+  'search-city-placeholder' => 'မြို့အနီး',
+  'search-query-placeholder' => 'ဥပမာ: ပီဇာ၊ ဟိုတယ်၊ တိုက်ခန်း',
+  'self-parent-cat-error' => 'မိမိကိုယ်ကိုမိဘအမျိုးအစားအဖြစ် သတ်မှတ်၍ မရပါ။',
+  'update-cat' => 'Update ကိုအမျိုးအစား',
+);

@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'Të gjitha kategoritë',
+  'and' => 'dhe',
+  'category-delete-error-children' => 'Kjo kategori ka nën-kategori, ju lutem fshini të gjitha nën-kategoritë më parë.',
+  'category-name-taken-error' => 'Emri i kategorisë është marrë.',
+  'category-slug-help' => 'vetëm alfa dhe / ose karaktere numerike të vogla, vizat dhe nënvizimet.',
+  'category-slug-taken-error' => 'Slug i kategorisë është marrë.',
+  'choose-parent-cat' => 'Zgjidhni një kategori prindërore',
+  'create-cat-not-found' => 'Kategoria prindërore nuk u gjet.',
+  'item-category-update-alert' => 'Kategoria e kësaj liste u përditësua me sukses.',
+  'more' => 'më shumë',
+  'no-parent-cat' => 'Asnjë kategori prindër (kategori rrënjë)',
+  'parent-cat' => 'Kategoria Prindër',
+  'search-city-format-alert' => 'Duhet në formatin e qytetit, shtetit',
+  'search-city-placeholder' => 'Afër qytetit',
+  'search-query-placeholder' => 'Psh: pica, hotel, apartament',
+  'self-parent-cat-error' => 'Nuk mund të vendoset vetë si kategori prind.',
+  'update-cat' => 'Azhurnoni kategorinë',
+);

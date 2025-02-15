@@ -1,0 +1,4 @@
+.github/
+docs/*.md
+*.min.js
+*.md

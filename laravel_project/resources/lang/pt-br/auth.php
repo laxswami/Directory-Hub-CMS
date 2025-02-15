@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'confirm-password' => 'Confirme a Senha',
+  'confirm-password-message' => 'Por favor, confirme sua senha antes de continuar.',
+  'email-addr' => 'Endereço de e-mail',
+  'failed' => 'Essas credenciais não correspondem aos nossos registros.',
+  'forgot-password' => 'Esqueceu sua senha?',
+  'have-an-account' => 'Ter uma conta',
+  'login' => 'Conecte-se',
+  'logout' => 'Sair',
+  'name' => 'Nome',
+  'no-account-yet' => 'Nenhuma conta ainda',
+  'password' => 'Senha',
+  'register' => 'inscrever-se',
+  'remember-me' => 'Lembre de mim',
+  'reset-password' => 'Redefinir senha',
+  'send-password-reset-link' => 'Enviar link de redefinição de senha',
+  'throttle' => 'Muitas tentativas de login. Tente novamente em :seconds segundos.',
+  'verify-email' => 'Verifique seu endereço de e-mail',
+  'verify-email-check' => 'Antes de prosseguir, verifique seu e-mail para um link de verificação.',
+  'verify-email-not-receive' => 'Se você não recebeu o email',
+  'verify-email-request' => 'clique aqui para solicitar outra',
+  'verify-email-sent' => 'Um novo link de verificação foi enviado para o seu endereço de e-mail.',
+);

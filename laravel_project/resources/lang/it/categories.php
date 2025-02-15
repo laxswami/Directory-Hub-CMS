@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'tutte le categorie',
+  'and' => 'e',
+  'category-delete-error-children' => 'Questa categoria ha sottocategorie, si prega di eliminare prima tutte le sottocategorie.',
+  'category-name-taken-error' => 'Il nome della categoria è stato preso.',
+  'category-slug-help' => 'solo caratteri alfabetici minuscoli e / o numerici, trattini e trattini bassi.',
+  'category-slug-taken-error' => 'Lo slug di categoria è stato preso.',
+  'choose-parent-cat' => 'Scegli una categoria genitore',
+  'create-cat-not-found' => 'Categoria padre non trovata.',
+  'item-category-update-alert' => 'Categoria di questo elenco aggiornata correttamente.',
+  'more' => 'Di Più',
+  'no-parent-cat' => 'Nessuna categoria principale (categoria principale)',
+  'parent-cat' => 'Categoria padre',
+  'search-city-format-alert' => 'Deve in città, formato statale',
+  'search-city-placeholder' => 'Vicino alla città',
+  'search-query-placeholder' => 'Es: pizza, hotel, appartamento',
+  'self-parent-cat-error' => 'Impossibile impostare self come categoria genitore.',
+  'update-cat' => 'Aggiorna categoria',
+);

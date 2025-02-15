@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'Tất cả danh mục',
+  'and' => 'và',
+  'category-delete-error-children' => 'Danh mục này có các danh mục phụ, vui lòng xóa tất cả các danh mục phụ trước.',
+  'category-name-taken-error' => 'Tên danh mục đã được sử dụng.',
+  'category-slug-help' => 'chỉ các ký tự chữ cái thường và / hoặc số, dấu gạch ngang và dấu gạch dưới.',
+  'category-slug-taken-error' => 'Loại slug đã được thực hiện.',
+  'choose-parent-cat' => 'Chọn một danh mục chính',
+  'create-cat-not-found' => 'Không tìm thấy danh mục chính.',
+  'item-category-update-alert' => 'Danh mục của danh sách này đã được cập nhật thành công.',
+  'more' => 'hơn',
+  'no-parent-cat' => 'Không có danh mục mẹ (danh mục gốc)',
+  'parent-cat' => 'Gia phả',
+  'search-city-format-alert' => 'Phải ở định dạng thành phố, tiểu bang',
+  'search-city-placeholder' => 'Gần thành phố',
+  'search-query-placeholder' => 'Ví dụ: pizza, khách sạn, căn hộ',
+  'self-parent-cat-error' => 'Không thể tự đặt mình làm danh mục chính.',
+  'update-cat' => 'Cập nhật danh mục',
+);

@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'Allir flokkar',
+  'and' => 'og',
+  'category-delete-error-children' => 'Þessi flokkur hefur undirflokka. Vinsamlegast eyddu öllum undirflokkum fyrst.',
+  'category-name-taken-error' => 'Flokkanafn hefur verið tekið.',
+  'category-slug-help' => 'aðeins lágstafir alfa og / eða tölustafir, strik og undirstrikanir.',
+  'category-slug-taken-error' => 'Flokkasnigill hefur verið tekinn.',
+  'choose-parent-cat' => 'Veldu foreldraflokk',
+  'create-cat-not-found' => 'Foreldraflokkur fannst ekki.',
+  'item-category-update-alert' => 'Flokkur þessarar skráningar var uppfærður með góðum árangri.',
+  'more' => 'meira',
+  'no-parent-cat' => 'Enginn foreldraflokkur (rótarflokkur)',
+  'parent-cat' => 'Foreldraflokkur',
+  'search-city-format-alert' => 'Verður í borg, ríkisform',
+  'search-city-placeholder' => 'Nálægt borg',
+  'search-query-placeholder' => 'Dæmi: pizza, hótel, íbúð',
+  'self-parent-cat-error' => 'Get ekki stillt sjálf sem foreldraflokk.',
+  'update-cat' => 'Uppfæra flokk',
+);

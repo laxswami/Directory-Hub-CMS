@@ -1,0 +1,48 @@
+<?php
+
+return array (
+  'edit-login' => 'Editar configuración de inicio de sesión social',
+  'edit-login-desc' => 'Esta página le permite editar una configuración particular de inicio de sesión social.',
+  'error-facebook-callback' => '',
+  'error-github-callback' => '',
+  'error-google-callback' => '',
+  'error-linkedin-callback' => '',
+  'error-twitter-callback' => '',
+  'frontend' => 
+  array (
+    'error-facebook-callback' => 'Recibimos un error con el inicio de sesión de Facebook, inicie sesión de otras maneras.',
+    'error-facebook-disabled' => 'Inicio de sesión en Facebook deshabilitado',
+    'error-github-callback' => 'Recibimos un error con el inicio de sesión de GitHub, inicie sesión de otras maneras.',
+    'error-github-disabled' => 'Inicio de sesión de GitHub deshabilitado',
+    'error-google-callback' => 'Recibimos un error con el inicio de sesión de Google, inicie sesión de otras maneras.',
+    'error-google-disabled' => 'Inicio de sesión de Google deshabilitado',
+    'error-linkedin-callback' => 'Recibimos un error con el inicio de sesión de LinkedIn, inicie sesión de otras maneras.',
+    'error-linkedin-disabled' => 'Inicio de sesión en LinkedIn deshabilitado',
+    'error-twitter-callback' => 'Recibimos un error con el inicio de sesión de Twitter, inicie sesión de otras maneras.',
+    'error-twitter-disabled' => 'Inicio de sesión en Twitter deshabilitado',
+    'or' => 'O',
+    'sign-in-facebook' => 'Iniciar sesión usando Facebook',
+    'sign-in-github' => 'Inicia sesión con GitHub',
+    'sign-in-google' => 'Inicia sesión con Google',
+    'sign-in-linkedin' => 'Inicia sesión con LinkedIn',
+    'sign-in-twitter' => 'Registrate con Twitter',
+    'sign-in-with' => 'Inicia sesión con tus cuentas de redes sociales',
+  ),
+  'login-client-id' => 'Identificación del cliente',
+  'login-client-secret' => 'Secreto del cliente',
+  'login-disabled' => 'Discapacitado',
+  'login-enabled' => 'Habilitado',
+  'login-provider' => 'Proveedor',
+  'login-status' => 'Estado',
+  'manage-login' => 'Administrar inicio de sesión social',
+  'manage-login-desc' => 'Esta página le permite administrar el inicio de sesión social del sitio web.',
+  'seo' => 
+  array (
+    'edit-login' => 'Panel de control - Editar inicio de sesión - :site_name',
+    'index-login' => 'Panel de control - Administrar inicio de sesión social - :site_name',
+  ),
+  'social-provider' => 'Proveedor social',
+  'social-provider-id' => 'CARNÉ DE IDENTIDAD',
+  'update-login' => 'Ajuste de actualización',
+  'update-login-success' => 'Configuración de inicio de sesión actualizada correctamente',
+);

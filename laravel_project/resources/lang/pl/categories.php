@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'Wszystkie kategorie',
+  'and' => 'i',
+  'category-delete-error-children' => 'Ta kategoria zawiera podkategorie, najpierw usuń wszystkie podkategorie.',
+  'category-name-taken-error' => 'Nazwa kategorii została zajęta.',
+  'category-slug-help' => 'tylko małe litery i / lub cyfry, myślniki i podkreślenia.',
+  'category-slug-taken-error' => 'Ślimak kategorii został zajęty.',
+  'choose-parent-cat' => 'Wybierz kategorię nadrzędną',
+  'create-cat-not-found' => 'Nie znaleziono kategorii nadrzędnej.',
+  'item-category-update-alert' => 'Kategoria tej aukcji została pomyślnie zaktualizowana.',
+  'more' => 'więcej',
+  'no-parent-cat' => 'Brak kategorii nadrzędnej (kategoria główna)',
+  'parent-cat' => 'Kategoria nadrzędna',
+  'search-city-format-alert' => 'Musi w formacie miasta, stanu',
+  'search-city-placeholder' => 'W pobliżu miasta',
+  'search-query-placeholder' => 'Np .: pizza, hotel, apartament',
+  'self-parent-cat-error' => 'Nie można ustawić siebie jako kategorii nadrzędnej.',
+  'update-cat' => 'Aktualizuj kategorię',
+);

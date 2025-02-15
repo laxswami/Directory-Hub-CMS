@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'सबै कोटीहरू',
+  'and' => 'र',
+  'category-delete-error-children' => 'यस कोटिमा उप-कोटीहरू छन्, कृपया सबै सब-वर्गहरू मेट्नुहोस्।',
+  'category-name-taken-error' => 'कोटी नाम लिइएको छ।',
+  'category-slug-help' => 'केवल लोअरकेस अल्फा र / वा संख्यात्मक वर्णहरू, ड्यासहरू र अन्डरस्कोरहरू।',
+  'category-slug-taken-error' => 'कोटी स्लग लिइएको छ।',
+  'choose-parent-cat' => 'अभिभावक कोटी छनौट गर्नुहोस्',
+  'create-cat-not-found' => 'अभिभावक कोटी फेला परेन।',
+  'item-category-update-alert' => 'यस सूचीको कोटि सफलतापूर्वक अपडेट गरियो।',
+  'more' => 'अधिक',
+  'no-parent-cat' => 'कुनै अभिभावक कोटी छैन (मूल कोटी)',
+  'parent-cat' => 'अभिभावक वर्ग',
+  'search-city-format-alert' => 'सहरमा हुनुपर्दछ, राज्य ढाँचा',
+  'search-city-placeholder' => 'शहर नजिकै',
+  'search-query-placeholder' => 'उदाहरण: पिज्जा, होटल, अपार्टमेन्ट',
+  'self-parent-cat-error' => 'अभिभावक कोटि को रूप मा सेट गर्न सकिदैन।',
+  'update-cat' => 'श्रेणी अपडेट गर्नुहोस्',
+);

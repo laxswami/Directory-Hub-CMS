@@ -1,0 +1,48 @@
+<?php
+
+return array (
+  'edit-login' => 'تحرير إعداد تسجيل الدخول الاجتماعي',
+  'edit-login-desc' => 'تتيح لك هذه الصفحة تعديل إعداد تسجيل دخول اجتماعي معين.',
+  'error-facebook-callback' => '',
+  'error-github-callback' => '',
+  'error-google-callback' => '',
+  'error-linkedin-callback' => '',
+  'error-twitter-callback' => '',
+  'frontend' => 
+  array (
+    'error-facebook-callback' => 'لقد حصلنا على خطأ في تسجيل الدخول إلى Facebook ، يرجى تسجيل الدخول بطرق أخرى.',
+    'error-facebook-disabled' => 'تم تعطيل تسجيل الدخول إلى Facebook',
+    'error-github-callback' => 'لقد حصلنا على خطأ في تسجيل الدخول إلى GitHub ، يرجى تسجيل الدخول بطرق أخرى.',
+    'error-github-disabled' => 'تم تعطيل تسجيل دخول GitHub',
+    'error-google-callback' => 'لقد حصلنا على خطأ في تسجيل الدخول إلى Google ، يرجى تسجيل الدخول بطرق أخرى.',
+    'error-google-disabled' => 'تم تعطيل تسجيل الدخول جوجل',
+    'error-linkedin-callback' => 'لقد حصلنا على خطأ في تسجيل الدخول إلى LinkedIn ، يرجى تسجيل الدخول بطرق أخرى.',
+    'error-linkedin-disabled' => 'تم تعطيل تسجيل الدخول إلى LinkedIn',
+    'error-twitter-callback' => 'لقد حصلنا على خطأ في تسجيل الدخول إلى Twitter ، يرجى تسجيل الدخول بطرق أخرى.',
+    'error-twitter-disabled' => 'تم تعطيل تسجيل الدخول إلى Twitter',
+    'or' => 'أو',
+    'sign-in-facebook' => 'قم بتسجيل الدخول باستخدام الفيسبوك',
+    'sign-in-github' => 'تسجيل الدخول باستخدام GitHub',
+    'sign-in-google' => 'الدخول مع جوجل',
+    'sign-in-linkedin' => 'تسجيل الدخول مع LinkedIn',
+    'sign-in-twitter' => 'تسجيل الدخول عبر تويتر',
+    'sign-in-with' => 'قم بتسجيل الدخول باستخدام حسابات الوسائط الاجتماعية الخاصة بك',
+  ),
+  'login-client-id' => 'معرف العميل',
+  'login-client-secret' => 'سر العميل',
+  'login-disabled' => 'معاق',
+  'login-enabled' => 'ممكّن',
+  'login-provider' => 'مزود',
+  'login-status' => 'الحالة',
+  'manage-login' => 'إدارة تسجيل الدخول الاجتماعي',
+  'manage-login-desc' => 'تسمح لك هذه الصفحة بإدارة تسجيل الدخول الاجتماعي للموقع.',
+  'seo' => 
+  array (
+    'edit-login' => 'لوحة القيادة - تعديل تسجيل الدخول - :site_name',
+    'index-login' => 'لوحة القيادة - إدارة تسجيل الدخول الاجتماعي - :site_name',
+  ),
+  'social-provider' => 'مزود اجتماعي',
+  'social-provider-id' => 'هوية شخصية',
+  'update-login' => 'إعداد التحديث',
+  'update-login-success' => 'تم تحديث إعداد تسجيل الدخول بنجاح',
+);

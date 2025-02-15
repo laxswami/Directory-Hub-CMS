@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'Gach Catagóir',
+  'and' => 'agus',
+  'category-delete-error-children' => 'Tá fo-chatagóirí sa chatagóir seo, scrios gach fo-chatagóir ar dtús, le do thoil.',
+  'category-name-taken-error' => 'Tógadh ainm na catagóire.',
+  'category-slug-help' => 'ach carachtair alfa agus / nó uimhriúla litreacha beaga, dashes agus béim.',
+  'category-slug-taken-error' => 'Tógadh seilide catagóir.',
+  'choose-parent-cat' => 'Roghnaigh catagóir tuismitheoirí',
+  'create-cat-not-found' => 'Níor aimsíodh catagóir na dtuismitheoirí.',
+  'item-category-update-alert' => 'Rinneadh catagóir den liostú seo a nuashonrú go rathúil.',
+  'more' => 'níos mó',
+  'no-parent-cat' => 'Gan aon chatagóir tuismitheora (catagóir fréimhe)',
+  'parent-cat' => 'Catagóir Tuismitheora',
+  'search-city-format-alert' => 'Ní mór i gcathair, formáid stáit',
+  'search-city-placeholder' => 'In aice na cathrach',
+  'search-query-placeholder' => 'Ex: pizza, óstán, árasán',
+  'self-parent-cat-error' => 'Ní féidir é féin a shocrú mar chatagóir tuismitheora.',
+  'update-cat' => 'Catagóir Nuashonraithe',
+);

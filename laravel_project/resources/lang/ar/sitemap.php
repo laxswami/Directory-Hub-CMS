@@ -1,0 +1,45 @@
+<?php
+return array (
+  'seo' =>
+  array (
+    'edit-sitemap' => 'لوحة المعلومات - تحرير إعداد خريطة الموقع - :site_name',
+  ),
+  'alert' =>
+  array (
+    'updated-success' => 'تم تحديث إعداد خريطة الموقع بنجاح.',
+  ),
+  'edit-sitemap-setting' => 'تحرير إعداد خريطة الموقع',
+  'edit-sitemap-setting-desc' => 'تسمح لك هذه الصفحة بتحرير إعداد خريطة الموقع. يمكنك تمكين أو تعطيل خرائط المواقع لكل قسم من أقسام موقع الويب ، كما يمكنك تعيين قيم محددة لكل خريطة موقع.',
+  'sitemap-index' => 'فهرس خريطة الموقع',
+  'enable' => 'ممكن',
+  'disable' => 'تعطيل',
+  'sitemap-page' => 'الصفحة',
+  'sitemap-status' => 'الحالة',
+  'sitemap-frequency' => 'تكرر',
+  'sitemap-format' => 'شكل',
+  'sitemap-include-to-index' => 'تضمين في الفهرس',
+  'sitemap-include' => 'متضمن',
+  'sitemap-not-include' => 'لا يتضمن',
+  'sitemap-frequency-always' => 'دائما',
+  'sitemap-frequency-hourly' => 'ساعيا',
+  'sitemap-frequency-daily' => 'اليومي',
+  'sitemap-frequency-weekly' => 'أسبوعي',
+  'sitemap-frequency-monthly' => 'شهريا',
+  'sitemap-frequency-yearly' => 'سنوي',
+  'sitemap-frequency-never' => 'أبدا',
+  'sitemap-format-xml' => 'xml',
+  'sitemap-format-html' => 'لغة البرمجة',
+  'sitemap-format-txt' => 'رسالة قصيرة',
+  'sitemap-format-ror-rss' => 'ror-rss',
+  'sitemap-format-ror-rdf' => 'ror-rdf',
+  'sitemap-category' => 'الفئة',
+  'sitemap-listing' => 'قائمة',
+  'sitemap-post' => 'بريد',
+  'sitemap-tag' => 'بطاقة شعار',
+  'sitemap-topic' => 'موضوع',
+  'sitemap' => 'خريطة الموقع',
+
+    'show-in-footer' => "إظهار خريطة الموقع في التذييل",
+    'show' => "تبين",
+    'not-show' => "لا تظهر",
+);

@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'semua Kategori',
+  'and' => 'dan',
+  'category-delete-error-children' => 'Kategori ini memiliki subkategori, harap hapus dulu semua subkategori.',
+  'category-name-taken-error' => 'Nama kategori sudah dipakai orang lain.',
+  'category-slug-help' => 'hanya karakter alfa dan / atau numerik huruf kecil, tanda hubung dan garis bawah.',
+  'category-slug-taken-error' => 'Siput kategori telah diambil.',
+  'choose-parent-cat' => 'Pilih kategori orang tua',
+  'create-cat-not-found' => 'Kategori induk tidak ditemukan.',
+  'item-category-update-alert' => 'Kategori dari daftar ini berhasil diperbarui.',
+  'more' => 'lebih',
+  'no-parent-cat' => 'Tidak ada kategori induk (kategori root)',
+  'parent-cat' => 'Kategori Induk',
+  'search-city-format-alert' => 'Harus dalam format kota, negara bagian',
+  'search-city-placeholder' => 'Dekat kota',
+  'search-query-placeholder' => 'Contoh: pizza, hotel, apartemen',
+  'self-parent-cat-error' => 'Tidak dapat menetapkan diri sendiri sebagai kategori induk.',
+  'update-cat' => 'Perbarui Kategori',
+);

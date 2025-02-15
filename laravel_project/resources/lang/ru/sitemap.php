@@ -1,0 +1,45 @@
+<?php
+return array (
+  'seo' =>
+  array (
+    'edit-sitemap' => 'Панель управления - изменение настроек карты сайта - :site_name',
+  ),
+  'alert' =>
+  array (
+    'updated-success' => 'Настройка карты сайта успешно обновлена.',
+  ),
+  'edit-sitemap-setting' => 'Изменить настройку файла Sitemap',
+  'edit-sitemap-setting-desc' => 'На этой странице вы можете редактировать настройки карты сайта. Вы можете включить или отключить карты сайта для каждого из разделов веб-сайта, вы также можете установить определенные значения для каждой карты сайта.',
+  'sitemap-index' => 'Индекс Sitemap',
+  'enable' => 'включить',
+  'disable' => 'Отключить',
+  'sitemap-page' => 'Страница',
+  'sitemap-status' => 'Статус',
+  'sitemap-frequency' => 'Частота',
+  'sitemap-format' => 'Формат',
+  'sitemap-include-to-index' => 'Включить в индекс',
+  'sitemap-include' => 'Включено',
+  'sitemap-not-include' => 'Не включает',
+  'sitemap-frequency-always' => 'Всегда',
+  'sitemap-frequency-hourly' => 'Ежечасно',
+  'sitemap-frequency-daily' => 'Повседневная',
+  'sitemap-frequency-weekly' => 'Еженедельно',
+  'sitemap-frequency-monthly' => 'Ежемесячно',
+  'sitemap-frequency-yearly' => 'Ежегодно',
+  'sitemap-frequency-never' => 'Никогда',
+  'sitemap-format-xml' => 'xml',
+  'sitemap-format-html' => 'html',
+  'sitemap-format-txt' => 'текст',
+  'sitemap-format-ror-rss' => 'ror-rss',
+  'sitemap-format-ror-rdf' => 'ror-rdf',
+  'sitemap-category' => 'Категория',
+  'sitemap-listing' => 'Листинг',
+  'sitemap-post' => 'После',
+  'sitemap-tag' => 'Тег',
+  'sitemap-topic' => 'Тема',
+  'sitemap' => 'Карта сайта',
+
+    'show-in-footer' => "Показать карту сайта в нижнем колонтитуле",
+    'show' => "Показать",
+    'not-show' => "Не показывать",
+);

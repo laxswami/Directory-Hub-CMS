@@ -1,0 +1,45 @@
+<?php
+return array (
+  'seo' =>
+  array (
+    'edit-sitemap' => '后台管理 - 编辑Sitemap设定 - :site_name',
+  ),
+  'alert' =>
+  array (
+    'updated-success' => '网站地图设置已成功更新。',
+  ),
+  'edit-sitemap-setting' => '编辑站点地图设置',
+  'edit-sitemap-setting-desc' => '该页面允许您编辑站点地图设置。您可以为网站的每个部分启用或禁用站点地图，也可以设置每个站点地图的特定值。',
+  'sitemap-index' => '网站地图索引',
+  'enable' => '启用',
+  'disable' => '禁用',
+  'sitemap-page' => '页',
+  'sitemap-status' => '状态',
+  'sitemap-frequency' => '频率',
+  'sitemap-format' => '格式',
+  'sitemap-include-to-index' => '包含在索引中',
+  'sitemap-include' => '已包含',
+  'sitemap-not-include' => '不包括',
+  'sitemap-frequency-always' => '总是',
+  'sitemap-frequency-hourly' => '每小时一次',
+  'sitemap-frequency-daily' => '日常',
+  'sitemap-frequency-weekly' => '每周',
+  'sitemap-frequency-monthly' => '每月一次',
+  'sitemap-frequency-yearly' => '每年',
+  'sitemap-frequency-never' => '决不',
+  'sitemap-format-xml' => 'XML文件',
+  'sitemap-format-html' => 'html',
+  'sitemap-format-txt' => '文本',
+  'sitemap-format-ror-rss' => 'ror-rss',
+  'sitemap-format-ror-rdf' => 'ror-rdf',
+  'sitemap-category' => '类别',
+  'sitemap-listing' => '清单',
+  'sitemap-post' => '发布',
+  'sitemap-tag' => '标签',
+  'sitemap-topic' => '话题',
+  'sitemap' => '网站地图',
+
+    'show-in-footer' => "在页脚中显示站点地图",
+    'show' => "显示",
+    'not-show' => "不显示",
+);

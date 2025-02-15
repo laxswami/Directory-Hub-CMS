@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'Visos kategorijos',
+  'and' => 'ir',
+  'category-delete-error-children' => 'Šioje kategorijoje yra subkategorijų, pirmiausia ištrinkite visas pakategores.',
+  'category-name-taken-error' => 'Kategorijos pavadinimas buvo paimtas.',
+  'category-slug-help' => 'tik mažosios raidės ir (arba) skaitmenys, brūkšniai ir pabraukimai.',
+  'category-slug-taken-error' => 'Kategorijos šliužas buvo priimtas.',
+  'choose-parent-cat' => 'Pasirinkite tėvų kategoriją',
+  'create-cat-not-found' => 'Tėvų kategorija nerasta.',
+  'item-category-update-alert' => 'Šio sąrašo kategorija sėkmingai atnaujinta.',
+  'more' => 'daugiau',
+  'no-parent-cat' => 'Nėra pagrindinės kategorijos (šaknies kategorija)',
+  'parent-cat' => 'Tėvų kategorija',
+  'search-city-format-alert' => 'Privaloma mieste, valstybiniame formate',
+  'search-city-placeholder' => 'Netoli miesto',
+  'search-query-placeholder' => 'Pvz .: pica, viešbutis, apartamentai',
+  'self-parent-cat-error' => 'Negalima nustatyti savęs kaip tėvų kategorijos.',
+  'update-cat' => 'Atnaujinti kategoriją',
+);

@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'Visas kategorijas',
+  'and' => 'un',
+  'category-delete-error-children' => 'Šajā kategorijā ir apakškategorijas, lūdzu, vispirms izdzēsiet visas apakškategorijas.',
+  'category-name-taken-error' => 'Kategorijas nosaukums ir pieņemts.',
+  'category-slug-help' => 'tikai mazos burtus un / vai ciparus, domuzīmes un pasvītras.',
+  'category-slug-taken-error' => 'Kategorijas lode ir pieņemta.',
+  'choose-parent-cat' => 'Izvēlieties vecāku kategoriju',
+  'create-cat-not-found' => 'Vecāku kategorija nav atrasta.',
+  'item-category-update-alert' => 'Šī ieraksta kategorija ir veiksmīgi atjaunināta.',
+  'more' => 'vairāk',
+  'no-parent-cat' => 'Nav vecāku kategorijas (saknes kategorija)',
+  'parent-cat' => 'Vecāku kategorija',
+  'search-city-format-alert' => 'Jābūt pilsētas, štata formātā',
+  'search-city-placeholder' => 'Netālu no pilsētas',
+  'search-query-placeholder' => 'Piem .: pica, viesnīca, dzīvoklis',
+  'self-parent-cat-error' => 'Nevar iestatīt sevi kā vecāku kategoriju.',
+  'update-cat' => 'Atjaunināt kategoriju',
+);

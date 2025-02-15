@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'alla kategorier',
+  'and' => 'och',
+  'category-delete-error-children' => 'Denna kategori har underkategorier. Ta bort alla underkategorier först.',
+  'category-name-taken-error' => 'Kategorinamn har tagits.',
+  'category-slug-help' => 'endast alfabetiska och / eller numeriska tecken, bindestreck och understreck.',
+  'category-slug-taken-error' => 'Kategorisniggen har tagits.',
+  'choose-parent-cat' => 'Välj en överordnad kategori',
+  'create-cat-not-found' => 'Föräldrakategori hittades inte.',
+  'item-category-update-alert' => 'Kategorin för denna lista uppdaterades.',
+  'more' => 'Mer',
+  'no-parent-cat' => 'Ingen överordnad kategori (rotkategori)',
+  'parent-cat' => 'Föräldrakategori',
+  'search-city-format-alert' => 'Måste i stad, statligt format',
+  'search-city-placeholder' => 'Nära staden',
+  'search-query-placeholder' => 'Ex: pizza, hotell, lägenhet',
+  'self-parent-cat-error' => 'Det går inte att ställa in själv som överordnad kategori.',
+  'update-cat' => 'Uppdatera kategori',
+);

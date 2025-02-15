@@ -1,0 +1,20 @@
+<?php
+return array (
+  'all-cat' => 'Barcha toifalar',
+  'and' => 'va',
+  'category-delete-error-children' => 'Ushbu toifada pastki toifalar mavjud, iltimos, avval barcha pastki toifalarni o\'chirib tashlang.',
+  'category-name-taken-error' => 'Turkum nomi olingan.',
+  'category-slug-help' => 'faqat kichik alfa va / yoki raqamli belgilar, chiziqcha va pastki chiziqlar.',
+  'category-slug-taken-error' => 'Kategoriya shilliqqoni olingan.',
+  'choose-parent-cat' => 'Ota-onalar toifasini tanlang',
+  'create-cat-not-found' => 'Ota-onalar toifasi topilmadi.',
+  'item-category-update-alert' => 'Ushbu ro\'yxatning toifasi muvaffaqiyatli yangilandi.',
+  'more' => 'Ko\'proq',
+  'no-parent-cat' => 'Ota-onalar toifasi yo\'q (ildiz toifasi)',
+  'parent-cat' => 'Ota-onalar toifasi',
+  'search-city-format-alert' => 'Shahar, davlat formatida bo\'lishi shart',
+  'search-city-placeholder' => 'Shahar yaqinida',
+  'search-query-placeholder' => 'Masalan: pizza, mehmonxona, kvartira',
+  'self-parent-cat-error' => 'O\'zini ota-ona toifasi sifatida o\'rnatib bo\'lmaydi.',
+  'update-cat' => 'Kategoriyani yangilang',
+);

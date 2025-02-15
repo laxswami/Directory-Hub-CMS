@@ -1,0 +1,45 @@
+<?php
+return array (
+  'seo' =>
+  array (
+    'edit-sitemap' => 'Tableau de bord - Modifier les paramètres du plan de site - :site_name',
+  ),
+  'alert' =>
+  array (
+    'updated-success' => 'Le paramètre de plan de site a bien été mis à jour.',
+  ),
+  'edit-sitemap-setting' => 'Modifier les paramètres du plan de site',
+  'edit-sitemap-setting-desc' => 'Cette page vous permet de modifier un paramètre de plan de site. Vous pouvez activer ou désactiver les plans de site pour chacune des sections du site Web, vous pouvez également définir des valeurs spécifiques de chaque plan de site.',
+  'sitemap-index' => 'Index du plan du site',
+  'enable' => 'Activer',
+  'disable' => 'Désactiver',
+  'sitemap-page' => 'Page',
+  'sitemap-status' => 'Statut',
+  'sitemap-frequency' => 'La fréquence',
+  'sitemap-format' => 'Format',
+  'sitemap-include-to-index' => 'Inclure dans l\'index',
+  'sitemap-include' => 'Inclus',
+  'sitemap-not-include' => 'Ne pas inclure',
+  'sitemap-frequency-always' => 'Toujours',
+  'sitemap-frequency-hourly' => 'À l\'heure',
+  'sitemap-frequency-daily' => 'du quotidien',
+  'sitemap-frequency-weekly' => 'Hebdomadaire',
+  'sitemap-frequency-monthly' => 'Mensuel',
+  'sitemap-frequency-yearly' => 'Annuel',
+  'sitemap-frequency-never' => 'Jamais',
+  'sitemap-format-xml' => 'xml',
+  'sitemap-format-html' => 'html',
+  'sitemap-format-txt' => 'SMS',
+  'sitemap-format-ror-rss' => 'ror-rss',
+  'sitemap-format-ror-rdf' => 'ror-rdf',
+  'sitemap-category' => 'Catégorie',
+  'sitemap-listing' => 'Référencement',
+  'sitemap-post' => 'Publier',
+  'sitemap-tag' => 'Marque',
+  'sitemap-topic' => 'Sujet',
+  'sitemap' => 'Plan du site',
+
+    'show-in-footer' => "Afficher le plan du site dans le pied de page",
+    'show' => "Spectacle",
+    'not-show' => "Ne pas montrer",
+);

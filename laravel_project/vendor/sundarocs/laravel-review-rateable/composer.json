@@ -1,0 +1,43 @@
+{
+    "name": "codebyray/laravel-review-rateable",
+    "description": "Review & Rating system for Laravel 5",
+    "keywords": ["rating", "Ratable", "laravel", "Review-Rateable", "reviewable"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CodebyRay",
+            "email": "dev@codebyray.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : "^7.2",
+        "illuminate/database": "~5.5.0|~5.6.0|~5.7.0|~5.8.0|^6.0",
+        "illuminate/support": "~5.5.0|~5.6.0|~5.7.0|~5.8.0|^6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.3|^7.0|^8.0",
+        "orchestra/testbench": "~3.5.0|~3.6.0|^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Codebyray\\ReviewRateable\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Codebyray\\ReviewRateable\\Test\\": "tests"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Codebyray\\ReviewRateable\\ReviewRateableServiceProvider"
+            ]
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test:windows": "vendor\\bin\\phpunit"
+    }
+}

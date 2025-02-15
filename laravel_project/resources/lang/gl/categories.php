@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'Todas as categorías',
+  'and' => 'e',
+  'category-delete-error-children' => 'Esta categoría ten subcategorías. Elimina primeiro todas as subcategorías.',
+  'category-name-taken-error' => 'Tomouse o nome da categoría.',
+  'category-slug-help' => 'só caracteres alfa e / ou numéricos en minúscula, guións e guións baixos.',
+  'category-slug-taken-error' => 'Tomouse a categoría babosa.',
+  'choose-parent-cat' => 'Escolle unha categoría pai',
+  'create-cat-not-found' => 'Non se atopou a categoría principal.',
+  'item-category-update-alert' => 'A categoría desta listaxe actualizouse correctamente.',
+  'more' => 'máis',
+  'no-parent-cat' => 'Non hai categoría principal (categoría raíz)',
+  'parent-cat' => 'Categoría pai',
+  'search-city-format-alert' => 'Imprescindible en formato cidade, estado',
+  'search-city-placeholder' => 'Preto da cidade',
+  'search-query-placeholder' => 'Ex: pizza, hotel, apartamento',
+  'self-parent-cat-error' => 'Non se pode definir a si mesmo como categoría principal.',
+  'update-cat' => 'Actualizar categoría',
+);

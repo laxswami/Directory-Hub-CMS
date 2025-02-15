@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'kõik kategooriad',
+  'and' => 'ja',
+  'category-delete-error-children' => 'Sellel kategoorial on alamkategooriaid, kustutage kõigepealt kõik alamkategooriad.',
+  'category-name-taken-error' => 'Kategooria nimi on võetud.',
+  'category-slug-help' => 'ainult väiketähed tähed ja / või numbrid, kriipsud ja alakriipsud',
+  'category-slug-taken-error' => 'Kategooria nälkjas on võetud.',
+  'choose-parent-cat' => 'Valige vanemate kategooria',
+  'create-cat-not-found' => 'Vanemate kategooriat ei leitud.',
+  'item-category-update-alert' => 'Selle kirje kategooria uuendamine õnnestus.',
+  'more' => 'rohkem',
+  'no-parent-cat' => 'Vanemkategooriat pole (juurkategooria)',
+  'parent-cat' => 'Vanemate kategooria',
+  'search-city-format-alert' => 'Peab olema linna, osariigi formaadis',
+  'search-city-placeholder' => 'Linna lähedal',
+  'search-query-placeholder' => 'Nt: pitsa, hotell, korter',
+  'self-parent-cat-error' => 'Ise ei saa vanemakategooriana seada.',
+  'update-cat' => 'Kategooria värskendamine',
+);

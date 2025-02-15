@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'toate categoriile',
+  'and' => 'și',
+  'category-delete-error-children' => 'Această categorie are subcategorii, vă rugăm să ștergeți mai întâi toate subcategoriile.',
+  'category-name-taken-error' => 'Numele categoriei a fost luat.',
+  'category-slug-help' => 'numai litere mici și / sau caractere numerice, liniuțe și sublinieri.',
+  'category-slug-taken-error' => 'S-a luat categoria slug.',
+  'choose-parent-cat' => 'Alegeți o categorie părinte',
+  'create-cat-not-found' => 'Categoria părinte nu a fost găsită.',
+  'item-category-update-alert' => 'Categoria acestei liste a fost actualizată cu succes.',
+  'more' => 'Mai Mult',
+  'no-parent-cat' => 'Fără categorie părinte (categorie rădăcină)',
+  'parent-cat' => 'Categoria părinte',
+  'search-city-format-alert' => 'Trebuie în format oraș, stat',
+  'search-city-placeholder' => 'Aproape de oraș',
+  'search-query-placeholder' => 'Ex: pizza, hotel, apartament',
+  'self-parent-cat-error' => 'Nu se poate seta auto ca categorie părinte.',
+  'update-cat' => 'Actualizați categoria',
+);

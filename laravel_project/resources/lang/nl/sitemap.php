@@ -1,0 +1,45 @@
+<?php
+return array (
+  'seo' =>
+  array (
+    'edit-sitemap' => 'Dashboard - Sitemap-instelling bewerken - :site_name',
+  ),
+  'alert' =>
+  array (
+    'updated-success' => 'De sitemapinstelling is succesvol bijgewerkt.',
+  ),
+  'edit-sitemap-setting' => 'Sitemap-instelling bewerken',
+  'edit-sitemap-setting-desc' => 'Op deze pagina kun je een sitemap-instelling bewerken. U kunt sitemaps in- of uitschakelen voor elk van de secties van de website, u kunt ook specifieke waarden van elke sitemap instellen.',
+  'sitemap-index' => 'Sitemap-index',
+  'enable' => 'Inschakelen',
+  'disable' => 'Uitschakelen',
+  'sitemap-page' => 'Bladzijde',
+  'sitemap-status' => 'Toestand',
+  'sitemap-frequency' => 'Frequentie',
+  'sitemap-format' => 'Formaat',
+  'sitemap-include-to-index' => 'Opnemen in index',
+  'sitemap-include' => 'Inbegrepen',
+  'sitemap-not-include' => 'Bevat niet',
+  'sitemap-frequency-always' => 'Altijd',
+  'sitemap-frequency-hourly' => 'Elk uur',
+  'sitemap-frequency-daily' => 'Dagelijks',
+  'sitemap-frequency-weekly' => 'Wekelijks',
+  'sitemap-frequency-monthly' => 'Maandelijks',
+  'sitemap-frequency-yearly' => 'Jaarlijks',
+  'sitemap-frequency-never' => 'Nooit',
+  'sitemap-format-xml' => 'xml',
+  'sitemap-format-html' => 'html',
+  'sitemap-format-txt' => 'tekst',
+  'sitemap-format-ror-rss' => 'ror-rss',
+  'sitemap-format-ror-rdf' => 'ror-rdf',
+  'sitemap-category' => 'Categorie',
+  'sitemap-listing' => 'Aanbieding',
+  'sitemap-post' => 'Post',
+  'sitemap-tag' => 'Label',
+  'sitemap-topic' => 'Onderwerp',
+  'sitemap' => 'Sitemap',
+
+    'show-in-footer' => "Sitemap weergeven in voettekst",
+    'show' => "Tonen",
+    'not-show' => "Niet laten zien",
+);

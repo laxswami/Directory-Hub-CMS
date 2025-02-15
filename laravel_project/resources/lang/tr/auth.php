@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'confirm-password' => 'Şifreyi Onayla',
+  'confirm-password-message' => 'Lütfen devam etmeden önce şifrenizi onaylayın.',
+  'email-addr' => 'E',
+  'failed' => 'Bu kimlik bilgileri kayıtlarımızla eşleşmiyor.',
+  'forgot-password' => 'Parolanızı mı unuttunuz?',
+  'have-an-account' => 'Hesabınız var',
+  'login' => 'Oturum aç',
+  'logout' => 'Çıkış Yap',
+  'name' => 'ad',
+  'no-account-yet' => 'Henüz hesap yok',
+  'password' => 'Parola',
+  'register' => 'kaydol',
+  'remember-me' => 'Beni hatırla',
+  'reset-password' => 'Şifreyi yenile',
+  'send-password-reset-link' => 'Şifre Gönderme Bağlantısı',
+  'throttle' => 'Çok fazla giriş denemesi. Lütfen :seconds saniye içinde tekrar deneyin.',
+  'verify-email' => 'Email adresinizi doğrulayın',
+  'verify-email-check' => 'Devam etmeden önce lütfen bir doğrulama bağlantısı için e-postanızı kontrol edin.',
+  'verify-email-not-receive' => 'E-postayı almadıysanız',
+  'verify-email-request' => 'başka bir tane talep etmek için buraya tıklayın',
+  'verify-email-sent' => 'E-posta adresinize yeni bir doğrulama bağlantısı gönderildi.',
+);

@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'sve kategorije',
+  'and' => 'i',
+  'category-delete-error-children' => 'Ova kategorija ima potkategorije, prvo izbrišite sve potkategorije.',
+  'category-name-taken-error' => 'Zauzet je naziv kategorije.',
+  'category-slug-help' => 'samo male alfa i / ili numeričke znakove, crtice i donje crte.',
+  'category-slug-taken-error' => 'Uzeta je kategorija puž.',
+  'choose-parent-cat' => 'Odaberite nadređenu kategoriju',
+  'create-cat-not-found' => 'Nadređena kategorija nije pronađena.',
+  'item-category-update-alert' => 'Kategorija ovog popisa uspješno je ažurirana.',
+  'more' => 'više',
+  'no-parent-cat' => 'Nema nadređene kategorije (korijenska kategorija)',
+  'parent-cat' => 'Kategorija roditelja',
+  'search-city-format-alert' => 'Mora biti u gradskom, državnom formatu',
+  'search-city-placeholder' => 'Blizina grada',
+  'search-query-placeholder' => 'Primjer: pizza, hotel, apartman',
+  'self-parent-cat-error' => 'Nije moguće postaviti sebe kao nadređenu kategoriju.',
+  'update-cat' => 'Ažuriraj kategoriju',
+);

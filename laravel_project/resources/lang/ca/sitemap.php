@@ -1,0 +1,45 @@
+<?php
+return array (
+  'seo' =>
+  array (
+    'edit-sitemap' => 'Tauler: Edita la configuració del mapa del lloc - :site_name',
+  ),
+  'alert' =>
+  array (
+    'updated-success' => 'La configuració del mapa del lloc s\'ha actualitzat correctament.',
+  ),
+  'edit-sitemap-setting' => 'Editeu la configuració del mapa del lloc',
+  'edit-sitemap-setting-desc' => 'Aquesta pàgina us permet editar una configuració del mapa del lloc. Podeu activar o desactivar els mapes del lloc per a cadascuna de les seccions del lloc web, i també podeu establir valors específics de cada mapa del lloc.',
+  'sitemap-index' => 'Índex del mapa del lloc',
+  'enable' => 'Activa',
+  'disable' => 'Desactivar',
+  'sitemap-page' => 'Pàgina',
+  'sitemap-status' => 'Estat',
+  'sitemap-frequency' => 'Freqüència',
+  'sitemap-format' => 'Format',
+  'sitemap-include-to-index' => 'Inclou a l’índex',
+  'sitemap-include' => 'Inclòs',
+  'sitemap-not-include' => 'No inclou',
+  'sitemap-frequency-always' => 'Sempre',
+  'sitemap-frequency-hourly' => 'Cada hora',
+  'sitemap-frequency-daily' => 'Diàriament',
+  'sitemap-frequency-weekly' => 'Setmanalment',
+  'sitemap-frequency-monthly' => 'Mensual',
+  'sitemap-frequency-yearly' => 'Anualment',
+  'sitemap-frequency-never' => 'Mai',
+  'sitemap-format-xml' => 'xml',
+  'sitemap-format-html' => 'html',
+  'sitemap-format-txt' => 'txt',
+  'sitemap-format-ror-rss' => 'ror-rss',
+  'sitemap-format-ror-rdf' => 'ror-rdf',
+  'sitemap-category' => 'Categoria',
+  'sitemap-listing' => 'Llistat',
+  'sitemap-post' => 'Publicació',
+  'sitemap-tag' => 'Etiqueta',
+  'sitemap-topic' => 'Tema',
+  'sitemap' => 'Mapa del lloc',
+
+    'show-in-footer' => "Mostra el mapa del lloc al peu de pàgina",
+    'show' => "Espectacle",
+    'not-show' => "No mostrar",
+);

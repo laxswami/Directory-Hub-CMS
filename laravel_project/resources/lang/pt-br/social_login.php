@@ -1,0 +1,48 @@
+<?php
+
+return array (
+  'edit-login' => 'Editar configuração de logon social',
+  'edit-login-desc' => 'Esta página permite editar uma configuração de login social específica.',
+  'error-facebook-callback' => '',
+  'error-github-callback' => '',
+  'error-google-callback' => '',
+  'error-linkedin-callback' => '',
+  'error-twitter-callback' => '',
+  'frontend' => 
+  array (
+    'error-facebook-callback' => 'Ocorreu um erro ao fazer o login no Facebook, faça o login com outras formas.',
+    'error-facebook-disabled' => 'Login do Facebook desativado',
+    'error-github-callback' => 'Ocorreu um erro ao fazer login no GitHub, faça o login de outras maneiras.',
+    'error-github-disabled' => 'Login do GitHub desativado',
+    'error-google-callback' => 'Ocorreu um erro no login do Google, faça o login de outras maneiras.',
+    'error-google-disabled' => 'Login do Google desativado',
+    'error-linkedin-callback' => 'Ocorreu um erro no login do LinkedIn, faça o login de outras maneiras.',
+    'error-linkedin-disabled' => 'Login do LinkedIn desativado',
+    'error-twitter-callback' => 'Ocorreu um erro no login no Twitter, faça o login com outras formas.',
+    'error-twitter-disabled' => 'Login do Twitter desativado',
+    'or' => 'OU',
+    'sign-in-facebook' => 'Entrar com o Facebook',
+    'sign-in-github' => 'Entre com o GitHub',
+    'sign-in-google' => 'Faça login no Google',
+    'sign-in-linkedin' => 'Entre com o LinkedIn',
+    'sign-in-twitter' => 'Entrar com o Twitter',
+    'sign-in-with' => 'Entre com suas contas de mídia social',
+  ),
+  'login-client-id' => 'ID do Cliente',
+  'login-client-secret' => 'Segredo do cliente',
+  'login-disabled' => 'Desativado',
+  'login-enabled' => 'ativado',
+  'login-provider' => 'Fornecedor',
+  'login-status' => 'Status',
+  'manage-login' => 'Gerenciar login social',
+  'manage-login-desc' => 'Esta página permite gerenciar o login social do site.',
+  'seo' => 
+  array (
+    'edit-login' => 'Painel - Editar logon - :site_name',
+    'index-login' => 'Painel - Gerenciar logon social - :site_name',
+  ),
+  'social-provider' => 'Fornecedor Social',
+  'social-provider-id' => 'EU IRIA',
+  'update-login' => 'Configuração de atualização',
+  'update-login-success' => 'Configuração de login atualizada com sucesso',
+);

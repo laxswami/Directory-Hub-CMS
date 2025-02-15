@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'Dhammaan Qaybaha',
+  'and' => 'iyo',
+  'category-delete-error-children' => 'Qaybtani waxay leedahay qaybo-hoosaadyo, fadlan marka hore tirtir dhammaan qaybaha hoose.',
+  'category-name-taken-error' => 'Magaca qaybta ayaa la qaatay.',
+  'category-slug-help' => 'kaliya alfa yar iyo / ama jilayaal tiro, jajab iyo hoosta.',
+  'category-slug-taken-error' => 'Nooca isdaba-joogga ah ayaa la qaatay.',
+  'choose-parent-cat' => 'Xulo qaybta waalidka',
+  'create-cat-not-found' => 'Qeybta waalidka lama helin.',
+  'item-category-update-alert' => 'Qeybta liiskan ayaa si guul leh loo casriyeeyay.',
+  'more' => 'dheeraad ah',
+  'no-parent-cat' => 'Ma jiro qayb waalid (qaybta xididka)',
+  'parent-cat' => 'Qaybta Waalidka',
+  'search-city-format-alert' => 'Waa inuu ku ahaadaa magaalada, qaabka gobolka',
+  'search-city-placeholder' => 'Magaalada u dhow',
+  'search-query-placeholder' => 'Ex: pizza, huteel, aqal',
+  'self-parent-cat-error' => 'Isuma dhigi karo qayb waalid ahaan.',
+  'update-cat' => 'Cusboonaysiinta Qaybta',
+);

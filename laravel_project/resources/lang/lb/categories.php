@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'All Kategorien',
+  'and' => 'an',
+  'category-delete-error-children' => 'Dës Kategorie huet Ënnerkategorien, läscht w.e.g. all Ënnerkategorien als éischt.',
+  'category-name-taken-error' => 'Kategorien Numm gouf geholl.',
+  'category-slug-help' => 'nëmme kleng Alpha- an / oder numeresch Zeechen, Bindestricher an ënnersträichen.',
+  'category-slug-taken-error' => 'Kategorie Slug gouf geholl.',
+  'choose-parent-cat' => 'Wielt eng Elteren Kategorie',
+  'create-cat-not-found' => 'Elteren Kategorie net fonnt.',
+  'item-category-update-alert' => 'Kategorie vun dëser Oplëschtung erfollegräich aktualiséiert.',
+  'more' => 'méi',
+  'no-parent-cat' => 'Keng Elterekategorie (Rootkategorie)',
+  'parent-cat' => 'Elteren Kategorie',
+  'search-city-format-alert' => 'Muss an der Stad, Staatsformat',
+  'search-city-placeholder' => 'Noen Stad',
+  'search-query-placeholder' => 'Ex: Pizza, Hotel, Appartement',
+  'self-parent-cat-error' => 'Kann net selwer als Elterekategorie setzen.',
+  'update-cat' => 'Update Kategorie',
+);

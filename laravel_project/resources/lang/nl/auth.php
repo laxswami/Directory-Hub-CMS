@@ -1,0 +1,25 @@
+<?php
+
+return array (
+  'confirm-password' => 'bevestig wachtwoord',
+  'confirm-password-message' => 'Bevestig uw wachtwoord voordat u doorgaat.',
+  'email-addr' => 'E-mailadres',
+  'failed' => 'Deze gegevens komen niet overeen met onze gegevens.',
+  'forgot-password' => 'Je wachtwoord vergeten?',
+  'have-an-account' => 'Een account hebben',
+  'login' => 'Log in',
+  'logout' => 'Uitloggen',
+  'name' => 'Naam',
+  'no-account-yet' => 'Nog geen account',
+  'password' => 'Wachtwoord',
+  'register' => 'Aanmelden',
+  'remember-me' => 'Onthoud me',
+  'reset-password' => 'Wachtwoord opnieuw instellen',
+  'send-password-reset-link' => 'Stuur wachtwoord reset link',
+  'throttle' => 'Te veel inlogpogingen. Probeer het over :seconds seconden opnieuw.',
+  'verify-email' => 'Verifieer je e-mailadres',
+  'verify-email-check' => 'Controleer voordat u doorgaat uw e-mail voor een verificatielink.',
+  'verify-email-not-receive' => 'Als u de e-mail niet heeft ontvangen',
+  'verify-email-request' => 'klik hier om er nog een aan te vragen',
+  'verify-email-sent' => 'Er is een nieuwe verificatielink naar uw e-mailadres gestuurd.',
+);

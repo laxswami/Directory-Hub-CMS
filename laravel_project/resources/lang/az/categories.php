@@ -1,0 +1,20 @@
+<?php 
+return array (
+  'all-cat' => 'bütün kateqoriyalar',
+  'and' => 'və',
+  'category-delete-error-children' => 'Bu kateqoriyada alt kateqoriyalar var, xahiş edirəm əvvəlcə bütün alt kateqoriyaları silin.',
+  'category-name-taken-error' => 'Kateqoriya adı götürülmüşdür.',
+  'category-slug-help' => 'yalnız kiçik alfa və / və ya ədədi simvollar, tire və alt xətlər.',
+  'category-slug-taken-error' => 'Kateqoriya sümüyü götürülmüşdür.',
+  'choose-parent-cat' => 'Bir ana kateqoriyası seçin',
+  'create-cat-not-found' => 'Ana kateqoriya tapılmadı.',
+  'item-category-update-alert' => 'Bu siyahının kateqoriyası uğurla yeniləndi.',
+  'more' => 'daha çox',
+  'no-parent-cat' => 'Valideyn kateqoriyası yoxdur (kök kateqoriyası)',
+  'parent-cat' => 'Ana kateqoriya',
+  'search-city-format-alert' => 'Şəhər, dövlət formatında olmalıdır',
+  'search-city-placeholder' => 'Şəhərin yaxınlığında',
+  'search-query-placeholder' => 'Məsələn: pizza, otel, mənzil',
+  'self-parent-cat-error' => 'Özünü ana kateqoriyası olaraq təyin etmək olmur.',
+  'update-cat' => 'Kateqoriya yeniləyin',
+);
