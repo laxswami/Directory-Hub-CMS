@@ -1,0 +1,163 @@
+@import 'utilities/fonts';
+@import 'utilities/variables';
+@import "utilities/base";
+@import 'vendor-extensions/bootstrap';
+@import 'vendor-extensions/multiselect';
+
+$body-bg: rgb(38, 50, 56);
+$body-color: #B2BDC4;
+$border-color: rgba(67, 72, 87, 1);
+
+$link-color: $body-color;
+
+$text-muted: #5F717E;
+
+$dropdown-bg: $body-bg;
+$dropdown-color: $body-color;
+$dropdown-link-color: $body-color;
+$dropdown-link-hover-color: $body-color;
+$dropdown-link-hover-bg: #232A2D;
+$dropdown-link-active-color: $body-color;
+$dropdown-link-active-bg: $gray-500;
+$dropdown-border-color: #3E4850;
+$dropdown-divider-bg: $gray-800;
+
+$card-border-color: $gray-700;
+$card-bg: lighten($body-bg, 5%);
+
+$input-color: $gray-400;
+$input-placeholder-color: $gray-600;
+
+$modal-content-bg: $body-bg;
+
+$custom-control-indicator-bg: $text-muted;
+
+$bg-darker: #71809630;
+
+.page-header {
+    background-color: $body-bg;
+}
+
+.ql-editor {
+    color: $body-color;
+}
+
+div.ql-editor.ql-blank::before {
+    color: $gray-600;
+}
+
+select.input {
+    color: $input-color;
+}
+
+.multiselect__content-wrapper {
+    background-color: $body-bg;
+    border-color: $border-color;
+}
+
+.multiselect--above .multiselect__content-wrapper {
+    border-top-color: $border-color;
+}
+
+.multiselect__content-wrapper ul li {
+    color: $input-color;
+}
+
+.multiselect__input, .multiselect__single {
+    color: $input-color;
+}
+
+.multiselect__input {
+    background-color: transparent;
+}
+
+.multiselect__tags {
+    border-radius: $border-radius;
+    background-color: $bg-darker;
+    border: none;
+    padding-left: .75rem;
+}
+
+.multiselect__option--selected {
+    color: $body-color;
+    background-color: $bg-darker;
+}
+
+.form-control:focus {
+    background-color: $bg-darker !important;
+}
+
+.bg-transparent:focus {
+    background-color: transparent !important;
+}
+
+.filepond--panel-root {
+    background-color: $bg-darker !important;
+}
+
+.filepond--drop-label {
+    color: $body-color !important;
+}
+
+.filepond--drop-label svg path {
+    fill: $body-color;
+}
+
+.bg-darker {
+    background-color: #71809630;
+}
+
+.sidebar-controls.active {
+    background-color: $body-bg;
+}
+
+.controls {
+    background-color: $body-bg;
+}
+
+.navbar-mini {
+    background-color: $body-bg;
+}
+
+.navbar-mini button:hover {
+    background-color: transparent;
+}
+
+.primary {
+    fill: $gray-500;
+}
+
+.secondary {
+    fill: $gray-700;
+}
+
+.logo-primary {
+    fill: $gray-700;
+}
+
+.logo-secondary {
+    fill: $gray-500;
+}
+
+.fill-bg {
+    fill: $body-bg;
+}
+
+.fill-body-color {
+    fill: $body-color;
+}
+
+.row-hover {
+    background-color: #232A2D;
+}
+
+@import 'vendor-extensions/vue';
+@import 'vendor-extensions/nprogress';
+@import 'vendor-extensions/switch';
+@import 'vendor-extensions/filepond';
+
+@import '~bootstrap/scss/functions';
+@import '~bootstrap/scss/variables';
+@import '~bootstrap/scss/mixins';
+
+@import '~bootstrap';

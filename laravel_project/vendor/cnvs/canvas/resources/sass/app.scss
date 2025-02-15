@@ -1,0 +1,68 @@
+@import 'utilities/fonts';
+@import 'utilities/variables';
+@import "utilities/base";
+@import 'vendor-extensions/bootstrap';
+
+$body-bg: $gray-100;
+$body-color: $gray-900;
+
+$link-color: $body-color;
+
+$text-muted: $gray-500;
+
+$dropdown-link-active-color: darken($gray-900, 5%);
+$dropdown-link-active-bg: $gray-100;
+
+$custom-control-indicator-bg: $text-muted;
+
+.page-header {
+    background-color: $white;
+}
+
+.controls {
+    background-color: $body-bg;
+}
+
+.navbar-mini {
+    background-color: $white;
+}
+
+.primary {
+    fill: $gray-500;
+}
+
+.secondary {
+    fill: $gray-700;
+}
+
+.logo-primary {
+    fill: $gray-500;
+}
+
+.logo-secondary {
+    fill: $gray-700;
+}
+
+.fill-bg {
+    fill: $white;
+}
+
+.fill-body-color {
+    fill: $body-color;
+}
+
+.row-hover {
+    background-color: $gray-100;
+}
+
+@import 'vendor-extensions/vue';
+@import 'vendor-extensions/nprogress';
+@import 'vendor-extensions/multiselect';
+@import 'vendor-extensions/switch';
+@import 'vendor-extensions/filepond';
+
+@import '~bootstrap/scss/functions';
+@import '~bootstrap/scss/variables';
+@import '~bootstrap/scss/mixins';
+
+@import '~bootstrap';

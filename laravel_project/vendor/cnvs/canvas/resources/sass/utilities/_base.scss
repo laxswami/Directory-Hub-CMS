@@ -1,0 +1,21 @@
+@import 'variables';
+
+.font-serif {
+    font-family: $font-family-serif;
+}
+
+.font-sans {
+    font-family: $font-family-sans-serif;
+}
+
+.fill-warning-primary {
+    fill: $red;
+}
+
+.fill-warning-secondary {
+    fill: $red-500;
+}
+
+.shadow-inner {
+    box-shadow: inset 0 2px 4px 0 rgba(0, 0, 0, 0.06);
+}
