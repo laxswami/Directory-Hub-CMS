@@ -3059,10 +3059,10 @@ filepond-plugin-image-validate-size@^1.2.3:
   resolved "https://registry.yarnpkg.com/filepond-plugin-image-validate-size/-/filepond-plugin-image-validate-size-1.2.4.tgz#d5437d7364e38107fd97274e465b76f222ad5445"
   integrity sha512-wHufb42zp6LdCMua6nNzfGFGPkO5PLwwmJnmeX+uKcXdEAfZQynTrPOfM0YpO1dpIzIlKre17lraZYt1KSsl1Q==
 
-filepond@^4.13.0:
-  version "4.19.2"
-  resolved "https://registry.yarnpkg.com/filepond/-/filepond-4.19.2.tgz#79ecabc5840e3ac33d5aef7b4cb1454a861bb418"
-  integrity sha512-2NgemeQGIx9TfjaRwn6LpjJFXILzGXl0FD+Er7veI/25Nn+4qu0mA8rk22S3vpJPajMRn+dD1EUTEOMgUolJ7w==
+filepond@^4.32.11:
+  version "4.32.11"
+  resolved "https://registry.yarnpkg.com/filepond/-/filepond-4.32.11.tgz#a1a2902a9d54148b66f5baa76efc36aefa16f2ff"
+  integrity sha512-+uHkc/XNksMMy2S+x5MGxTuA97NqzBBwmoixn3tqGELa4BgqJ+PBiWL3YeRamqAoYguT7t/au3s7ams2jjMshA==
 
 fill-range@^4.0.0:
   version "4.0.0"
